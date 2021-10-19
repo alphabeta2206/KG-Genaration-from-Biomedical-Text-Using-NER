@@ -44,4 +44,4 @@ def wiki_scrape(topic_name, verbose=True):
     
     return sources
 
-data=wiki_scrape('Heart Diseases')
+#data=wiki_scrape('Heart Diseases')
