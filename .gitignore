@@ -102,8 +102,10 @@ celerybeat.pid
 *.sage.py
 
 #DSStore
-
 **/.DS_Store
+
+#.csv
+**/.csv
 
 # Environments
 .env
