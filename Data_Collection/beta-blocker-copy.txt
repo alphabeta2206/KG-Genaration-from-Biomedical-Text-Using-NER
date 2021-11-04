@@ -1,0 +1,1429 @@
+"Beta blockers (beta-blockers, β-blockers, etc.) are a class of medications that are predominantly used to manage abnormal heart rhythms, and to protect the heart from a second heart attack (myocardial infarction) after a first heart attack (secondary prevention). They are also widely used to treat high blood pressure (hypertension), although they are no longer the first choice for initial treatment of most patients.Beta blockers are competitive antagonists that block the receptor sites for the endogenous catecholamines epinephrine (adrenaline) and norepinephrine (noradrenaline) on adrenergic beta receptors, of the sympathetic nervous system, which mediates the fight-or-flight response. Some block activation of all types of β-adrenergic receptors and others are selective for one of the three known types of beta receptors, designated β1, β2 and β3 receptors. β1-adrenergic receptors are located mainly in the heart and in the kidneys. β2-adrenergic receptors are located mainly in the lungs, gastrointestinal tract, liver, uterus, vascular smooth muscle, and skeletal muscle. β3-adrenergic receptors are located in fat cells.Beta receptors are found on cells of the heart muscles, smooth muscles, airways, arteries, kidneys, and other tissues that are part of the sympathetic nervous system and lead to stress responses, especially when they are stimulated by epinephrine (adrenaline). Beta blockers interfere with the binding to the receptor of epinephrine and other stress hormones and weaken the effects of stress hormones.
+In 1964, James Black synthesized the first clinically significant beta blockers—propranolol and pronethalol; it revolutionized the medical management of angina pectoris and is considered by many to be one of the most important contributions to clinical medicine and pharmacology of the 20th century.For the treatment of primary hypertension, meta-analyses of studies which mostly used atenolol have shown that although beta blockers are more effective than placebo in preventing stroke and total cardiovascular events, they are not as effective as diuretics, medications inhibiting the renin–angiotensin system (e.g., ACE inhibitors), or calcium channel blockers.
+
+Medical uses
+Large differences exist in the pharmacology of agents within the class, thus not all beta blockers are used for all indications listed below.
+Indications for beta blockers include:
+
+Angina pectoris (contraindicated for Prinzmetal's angina)
+Atrial fibrillation
+Cardiac arrhythmia
+Congestive heart failure
+Essential tremor
+Glaucoma (as eye drops, they decrease intraocular pressure by lowering aqueous humor secretion.)
+Hypertension, although they are generally not preferred as an initial treatment.
+Hyperthyroidism
+Migraine prophylaxis
+Mitral valve prolapse
+Myocardial infarction
+Phaeochromocytoma, in conjunction with α-blocker
+Postural orthostatic tachycardia syndrome
+Symptomatic control (tachycardia, tremor) in anxiety and hyperthyroidism
+Theophylline overdoseBeta blockers have also been used for:
+Acute aortic dissection
+Hypertrophic obstructive cardiomyopathy
+Long QT syndrome
+Marfan syndrome (treatment with propranolol slows progression of aortic dilation and its complications)
+Prevention of variceal bleeding in portal hypertension
+Possible mitigation of hyperhidrosis
+Social and other anxiety disorders
+Controversially, for reduction of perioperative mortality in non-cardiac surgery, but the best evidence suggests that they increase mortality when used this way
+
+Congestive heart failure
+Although beta blockers were once contraindicated in congestive heart failure, as they have the potential to worsen the condition due to their effect of decreasing cardiac contractility, studies in the late 1990s showed their efficacy at reducing morbidity and mortality.Bisoprolol, carvedilol, and sustained-release metoprolol are specifically indicated as adjuncts to standard ACE inhibitor and diuretic therapy in congestive heart failure, although at doses typically much lower than those indicated for other conditions. Beta blockers are only indicated in cases of compensated, stable congestive heart failure; in cases of acute decompensated heart failure, beta blockers will cause a further decrease in ejection fraction, worsening the patient's current symptoms.
+Beta blockers are known primarily for their reductive effect on heart rate, although this is not the only mechanism of action of importance in congestive heart failure. Beta blockers, in addition to their sympatholytic β1 activity in the heart, influence the renin–angiotensin system at the kidneys. Beta blockers cause a decrease in renin secretion, which in turn reduces the heart oxygen demand by lowering the extracellular volume and increasing the oxygen-carrying capacity of the blood. Heart failure characteristically involves increased catecholamine activity on the heart, which is responsible for several deleterious effects, including increased oxygen demand, propagation of inflammatory mediators, and abnormal cardiac tissue remodeling, all of which decrease the efficiency of cardiac contraction and contribute to the low ejection fraction. Beta blockers counter this inappropriately high sympathetic activity, eventually leading to an improved ejection fraction, despite an initial reduction in ejection fraction.
+Trials have shown beta blockers reduce the absolute risk of death by 4.5% over a 13-month period. In addition to reducing the risk of mortality, the numbers of hospital visits and hospitalizations were also reduced in the trials.Therapeutic administration of beta blockers for congestive heart failure ought to begin at very low doses (1/8 of target) with a gradual escalation of the dose. The heart of the patient must adjust to decreasing stimulation by catecholamines and find a new equilibrium at a lower adrenergic drive.
+
+Anxiety
+Officially, beta blockers are not approved for anxiolytic use by the U.S. Food and Drug Administration. However, many controlled trials in the past 25 years indicate beta blockers are effective in anxiety disorders, though the mechanism of action is not known. The physiological symptoms of the fight-or-flight response (pounding heart, cold/clammy hands, increased respiration, sweating, etc.) are significantly reduced, thus enabling anxious individuals to concentrate on the task at hand.
+Musicians, public speakers, actors, and professional dancers have been known to use beta blockers to avoid performance anxiety, stage fright, and tremor during both auditions and public performances. The application to stage fright was first recognized in The Lancet in 1976, and by 1987, a survey conducted by the International Conference of Symphony Orchestra Musicians, representing the 51 largest orchestras in the United States, revealed 27% of its musicians had used beta blockers and 70% obtained them from friends, not physicians. Beta-blockers are inexpensive, said to be relatively safe, and on one hand, seem to improve musicians' performances on a technical level, while some, such as Barry Green, the author of ""The Inner Game of Music"" and Don Greene, a former Olympic diving coach who teaches Juilliard students to overcome their stage fright naturally, say the performances may be perceived as ""soulless and inauthentic"".
+
+Surgery
+Low certainty evidence indicates that the use of beta blockers around the time of cardiac surgery may decrease the risk of heart dysrhythmias and atrial fibrillation. Starting them around the time of other types of surgery, however, may worsen outcomes. For non-cardiac surgery, the use of beta blockers to prevent adverse effects may reduce the risk of atrial fibrillation and myocardial infarctions (very low certainity evidence), however, there is moderate certainity evidence that this approach may increase the risk of hypotension. Low-certainity evidence suggests that beta blockers used perioperatively in non-cardiac surgeries may increase the risk of bradycardia.
+
+Performance-enhancing use
+Because they promote lower heart rates and reduce tremors, beta blockers have been used in professional sports where high accuracy is required, including archery, shooting, golf and snooker. Beta blockers are banned in some sports by the International Olympic Committee. In the 2008 Summer Olympics, 50-metre pistol silver medalist and 10-metre air pistol bronze medalist Kim Jong-su tested positive for propranolol and was stripped of his medals.For similar reasons, beta blockers have also been used by surgeons.Classical musicians have commonly used beta blockers since the 1970's to reduce stage fright.
+
+Adverse effects
+Adverse drug reactions  associated with the use of beta blockers include: nausea, diarrhea, bronchospasm, dyspnea, cold extremities, exacerbation of Raynaud's syndrome, bradycardia, hypotension, heart failure, heart block, fatigue, dizziness, alopecia (hair loss), abnormal vision, hallucinations, insomnia, nightmares, sexual dysfunction, erectile dysfunction and/or alteration of glucose and lipid metabolism. Mixed α1/β-antagonist therapy is also commonly associated with orthostatic hypotension. Carvedilol therapy is commonly associated with edema. Due to the high penetration across the blood–brain barrier, lipophilic beta blockers, such as propranolol and metoprolol, are more likely than other less lipophilic beta blockers to cause sleep disturbances, such as insomnia, vivid dreams and nightmares.Adverse effects associated with β2-adrenergic receptor antagonist activity (bronchospasm, peripheral vasoconstriction, alteration of glucose and lipid metabolism) are less common with β1-selective (often termed ""cardioselective"") agents, but receptor selectivity diminishes at higher doses. Beta blockade, especially of the beta-1 receptor at the macula densa, inhibits renin release, thus decreasing the release of aldosterone. This causes hyponatremia and hyperkalemia.
+Hypoglycemia can occur with beta blockade because β2-adrenoceptors normally stimulate glycogen breakdown (glycogenolysis) in the liver and pancreatic release of the hormone glucagon, which work together to increase plasma glucose. Therefore, blocking β2-adrenoceptors lowers plasma glucose. β1-blockers have fewer metabolic side effects in diabetic patients; however, the fast heart rate that serves as a warning sign for insulin-induced low blood sugar may be masked, resulting in hypoglycemia unawareness. This is termed beta blocker-induced hypoglycemia unawareness. Therefore, beta blockers are to be used cautiously in diabetics.A 2007 study revealed diuretics and beta blockers used for hypertension increase a patient's risk of developing diabetes mellitus, while ACE inhibitors and angiotensin II receptor antagonists (angiotensin receptor blockers) actually decrease the risk of diabetes. Clinical guidelines in Great Britain, but not in the United States, call for avoiding diuretics and beta blockers as first-line treatment of hypertension due to the risk of diabetes.Beta blockers must not be used in the treatment of selective alpha-adrenergic agonist overdose. The blockade of only beta receptors increases blood pressure, reduces coronary blood flow, left ventricular function, and cardiac output and tissue perfusion by means of leaving the alpha-adrenergic system stimulation unopposed. Beta blockers with lipophilic properties and CNS penetration such as metoprolol and labetalol may be useful for treating CNS and cardiovascular toxicity from a methamphetamine overdose. The mixed alpha- and beta blocker labetalol is especially useful for treatment of concomitant tachycardia and hypertension induced by methamphetamine. The phenomenon of ""unopposed alpha stimulation"" has not been reported with the use of beta blockers for treatment of methamphetamine toxicity. Other appropriate antihypertensive drugs to administer during hypertensive crisis resulting from stimulant overdose are vasodilators such as nitroglycerin, diuretics such as furosemide, and alpha blockers such as phentolamine.
+
+Contraindications
+Contraindications for beta blockers include:
+
+Asthma
+The 2007 National Heart, Lung, and Blood Institute (NHLBI) asthma guidelines recommend against the use of non-selective beta blockers in asthmatics, while allowing for the use of cardioselective beta blockers.: 182 Cardioselective beta blocker (β1 blockers), if really required, can be prescribed at the least possible dose to those with mild to moderate respiratory symptoms. β2-agonists can somewhat mitigate β-Blocker-induced bronchospasm where it exerts greater efficacy on reversing selective β-blocker-induced bronchospasm than the nonselective β-blocker-induced worsening asthma and/or COPD.
+
+Diabetes mellitus
+Epinephrine signals early warning of the upcoming hypoglycemia.Beta blockers' inhibition on epinephrine's effect can somewhat exacerbate hypoglycemia by interfering with glycogenolysis and mask signs of hypoglycemia such as tachycardia, palpitations, diaphoresis, and tremors. Diligent blood glucose level monitoring is necessary for a patient with diabetes mellitus on beta blocker.
+
+Hyperthyroidism
+Abrupt withdrawal can result in a thyroid storm.
+
+Bradycardia or AV block
+Unless a pacemaker is present, beta blockers can severely depress conduction in the AV node, resulting in a reduction of heart rate and cardiac output. One should be very cautious with the use of beta blockers in tachycardic patients with Wolff-Parkinson-White Syndrome, as it can result in life-threatening arrhythmia in certain patients. By slowing the conduction through the AV node, preferential conduction through the accessory pathway is favored. If the patient happens to develop atrial flutter, this could lead to a 1:1 conduction with very fast ventricular rate, or worse, ventricular fibrillation in the case of atrial fibrillation.
+
+Toxicity
+Glucagon, used in the treatment of overdose, increases the strength of heart contractions, increases intracellular cAMP, and decreases renal vascular resistance. It is, therefore, useful in patients with beta blocker cardiotoxicity. Cardiac pacing is usually reserved for patients unresponsive to pharmacological therapy.
+People experiencing bronchospasm due to the β2 receptor-blocking effects of nonselective beta blockers may be treated with anticholinergic drugs, such as ipratropium, which are safer than beta agonists in patients with cardiovascular disease. Other antidotes for beta blocker poisoning are salbutamol and isoprenaline.
+
+β-receptor antagonism
+Stimulation of β1 receptors by epinephrine and norepinephrine induces a positive chronotropic and inotropic effect on the heart and increases cardiac conduction velocity and automaticity. Stimulation of β1 receptors on the kidney causes renin release. Stimulation of β2 receptors induces smooth muscle relaxation, induces tremor in skeletal muscle, and increases glycogenolysis in the liver and skeletal muscle. Stimulation of β3 receptors induces lipolysis.Beta blockers inhibit these normal epinephrine- and norepinephrine-mediated sympathetic actions, but have minimal effect on resting subjects.
+That is, they reduce the effect of excitement or physical exertion on heart rate and force of contraction, and also tremor, and breakdown of glycogen. Beta blockers can have a constricting effect on the bronchi of the lungs, possibly worsening or causing asthma symptoms.Since β2 adrenergic receptors can cause vascular smooth muscle dilation, beta blockers may cause some vasoconstriction. However, this effect tends to be small because the activity of β2 receptors is overshadowed by the more dominant vasoconstricting α1 receptors. By far the greatest effect of beta blockers remains in the heart. Newer, third-generation beta blockers can cause vasodilation through blockade of alpha-adrenergic receptors.Accordingly, nonselective beta blockers are expected to have antihypertensive effects. The primary antihypertensive mechanism of beta blockers is unclear, but may involve reduction in cardiac output (due to negative chronotropic and inotropic effects). It may also be due to reduction in renin release from the kidneys, and a central nervous system effect to reduce sympathetic activity (for those beta blockers that do cross the blood–brain barrier, e.g. propranolol).
+Antianginal effects result from negative chronotropic and inotropic effects, which decrease cardiac workload and oxygen demand. Negative chronotropic properties of beta blockers allow the lifesaving property of heart rate control. Beta blockers are readily titrated to optimal rate control in many pathologic states.
+The antiarrhythmic effects of beta blockers arise from sympathetic nervous system blockade—resulting in depression of sinus node function and atrioventricular node conduction, and prolonged atrial refractory periods. Sotalol, in particular, has additional antiarrhythmic properties and prolongs action potential duration through potassium channel blockade.
+Blockade of the sympathetic nervous system on renin release leads to reduced aldosterone via the renin–angiotensin–aldosterone system, with a resultant decrease in blood pressure due to decreased sodium and water retention.
+
+Intrinsic sympathomimetic activity
+Also referred to as intrinsic sympathomimetic effect, this term is used particularly with beta blockers that can show both agonism and antagonism at a given beta receptor, depending on the concentration of the agent (beta blocker) and the concentration of the antagonized agent (usually an endogenous compound, such as norepinephrine). See partial agonist for a more general description.
+Some beta blockers (e.g. oxprenolol, pindolol, penbutolol, labetalol and acebutolol) exhibit intrinsic sympathomimetic activity (ISA). These agents are capable of exerting low-level agonist activity at the β-adrenergic receptor while simultaneously acting as a receptor site antagonist. These agents, therefore, may be useful in individuals exhibiting excessive bradycardia with sustained beta blocker therapy.
+Agents with ISA are not used after myocardial infarctions, as they have not been demonstrated to be beneficial. They may also be less effective than other beta blockers in the management of angina and tachyarrhythmia.
+
+α1-receptor antagonism
+Some beta blockers (e.g., labetalol and carvedilol) exhibit mixed antagonism of both β- and α1-adrenergic receptors, which provides additional arteriolar vasodilating action.
+
+Examples
+Nonselective agents
+Nonselective beta blockers display both β1 and β2 antagonism.
+Propranolol
+Bucindolol (has additional α1-blocking activity)
+Carteolol
+Carvedilol (has additional α1-blocking activity)
+Labetalol (has additional α1-blocking activity)
+Nadolol
+Oxprenolol (has intrinsic sympathomimetic activity)
+Penbutolol (has intrinsic sympathomimetic activity)
+Pindolol (has intrinsic sympathomimetic activity)
+Sotalol (not considered a ""typical beta blocker"")
+Timolol
+
+β1-selective agents
+β1-selective beta blockers are also known as cardioselective beta blockers.  Pharmacologically, the beta-blockade of the B1 receptors in the heart will act on cAMP. The function of cAMP as a second messenger in the cardiac cell is that it phosphorylates the LTCC and the ryanodine receptor to increase intracellular calcium levels and cause contraction. Beta-blockade of the B1 receptor will inhibit cAMP from phosphorylating, and it will decrease the ionotrophic and chronotropic effect. Note that drugs may be cardioselective, or act on B1 receptors in the heart only, but still have instrinsic sympathomimetic activity. 
+
+Acebutolol (has intrinsic sympathomimetic activity, ISA)
+Atenolol
+Betaxolol
+Bisoprolol
+Celiprolol (has intrinsic sympathomimetic activity)
+Metoprolol
+Nebivolol
+Esmolol
+
+β2-selective agents
+Butaxamine
+ICI-118,551
+
+β3-selective agents
+SR 59230A
+
+β1 selective antagonist and β3 agonist agents
+Nebivolol
+
+Comparative information
+Pharmacological differences
+Agents with intrinsic sympathomimetic action (ISA)
+Acebutolol, pindolol, labetalol, mepindolol, oxprenolol, celiprolol, penbutolol
+Agents organized by lipid solubility (lipophilicity)High lipophilicity: propranolol, labetalol
+Intermediate lipophilicity: metoprolol, bisoprolol, carvedilol, acebutolol, timolol, pindolol
+Low lipophilicity (also known as hydrophilic beta blockers): atenolol, nadolol, and sotalol
+Agents with membrane stabilizing effectCarvedilol, propranolol > oxprenolol > labetalol, metoprolol, timolol
+
+Indication differences
+Agents specifically labeled for cardiac arrhythmia
+Esmolol, sotalol, landiolol (Japan)
+Agents specifically labeled for congestive heart failureBisoprolol, carvedilol, sustained-release metoprolol
+Agents specifically labeled for glaucoma
+Betaxolol, carteolol, levobunolol, timolol, metipranolol
+Agents specifically labeled for myocardial infarctionAtenolol, metoprolol (immediate release), propranolol (immediate release), timolol, carvedilol (after left ventricular dysfunction), bisoprolol (preventive treatment before and primary treatment after heart attacks)
+Agents specifically labeled for migraine prophylaxisTimolol, propranololPropranolol is the only agent indicated for the control of tremor, portal hypertension, and esophageal variceal bleeding, and used in conjunction with α-blocker therapy in phaeochromocytoma.
+
+Other effects
+Beta blockers, due to their antagonism at beta-1 adrenergic receptors, inhibit both the synthesis of new melatonin and its secretion by the pineal gland. The neuropsychiatric side effects of some beta blockers (e.g. sleep disruption, insomnia) may be due to this effect.Some pre-clinical and clinical research suggests that some beta blockers may be beneficial for cancer treatment. However, other studies do not show a correlation between cancer survival and beta blocker usage. Also, a 2017 meta-analysis failed to show any benefit for the use of beta blockers in breast cancer.Beta blockers have also been used for the treatment of schizoid personality disorder. However, there is limited evidence supporting the efficacy of supplemental beta-blocker use in addition to antipsychotic drugs for treating schizophrenia.Contrast media are not contraindicated in patients receiving beta blockers.
+
+See also
+Alpha blockers
+
+References
+External links
+Musicians and beta-blockers by Gerald Klickstein, March 11, 2010 (A blog post that considers ""whether beta-blockers are safe, effective, and appropriate for performers to use."")
+Better Playing Through Chemistry by Blair Tindall, The New York Times, October 17, 2004. (Discusses the use of beta blockers among professional musicians)
+Musicians using beta blockers by Blair Tindall. A condensed version of the above article.
+In Defense of the Beta Blocker by Carl Elliott, The Atlantic, August 20, 2008. (Discusses the use of propranolol by a North Korean pistol shooter in the 2008 Olympics)
+beta-Adrenergic+Blockers at the US National Library of Medicine Medical Subject Headings (MeSH)"
+"(R)-3-Nitrobiphenyline is a drug which acts as an α2-adrenergic agonist, selective for the α2C subtype, as well as being a weak antagonist at the α2A and α2B subtypes.
+
+
+== References =="
+"4-NEMD is a potent sedative drug which acts as a selective alpha-2 adrenergic agonist. It is closely related to dexmedetomidine but is several times more potent. Like other alpha-2 agonists, it produces sedative and muscle relaxant effects but without producing respiratory depression. It is not currently used in medicine but has been researched as the basis for a potential new generation of alpha-2 agonist drugs, which may have selectivity for the different subtypes of the alpha-2 receptor. It has two isomers, with the (S) isomer being the more potent, as with medetomidine. 4-NEMD was also investigated by the United States military as an anaesthetic agent, most likely for use in surgery but possibly also for use as a non-lethal incapacitating agent, although this has not been officially confirmed.
+
+
+== References =="
+"6-Fluoronorepinephrine (6-FNE) is a selective α1 and α2 adrenergic receptor full agonist related to norepinephrine. It is the only selective full agonist for the α adrenergic receptors known to date and has been used to study their function in scientific research. Infusion of 6-FNE into the locus coeruleus of rodents produces marked hyperactivity and behavioral disinhibition by suppressing activity in the area via stimulation of α1 adrenergic receptors.
+
+
+== References =="
+"ATC code A Alimentary tract and metabolism is a section of the Anatomical Therapeutic Chemical Classification System, a system of alphanumeric codes developed by the World Health Organization (WHO) for the classification of drugs and other medical products.
+Codes for veterinary use (ATCvet codes) can be created by placing the letter Q in front of the human ATC code: for example, QA. National issues of the ATC classification may include additional codes not present in this list, which follows the WHO version.
+
+
+== References =="
+"Angiotensin-converting-enzyme inhibitors (ACE inhibitors) are a class of medication used primarily for the treatment of high blood pressure and heart failure. They work by causing relaxation of blood vessels as well as a decrease in blood volume, which leads to lower blood pressure and decreased oxygen demand from the heart. 
+ACE inhibitors inhibit the activity of angiotensin-converting enzyme, an important component of the renin–angiotensin system which converts angiotensin I to angiotensin II, and hydrolyses bradykinin. Therefore, ACE inhibitors decrease the formation of angiotensin II, a vasoconstrictor, and increase the level of bradykinin,  a peptide vasodilator. This combination is synergistic in lowering blood pressure. As a result of inhibiting the ACE enzyme in the bradykinin system, the ACE inhibitor drugs allow for increased levels of bradykinin which would normally be degraded. This mechanism can explain the two most common side effects seen with ACE Inhibitors: angioedema and cough. Bradykinin produces prostaglandin.  
+
+Frequently prescribed ACE inhibitors include benazepril, zofenopril, perindopril, trandolapril, captopril, enalapril, lisinopril, and ramipril.
+
+Medical use
+ACE inhibitors were initially approved for the treatment of hypertension and can be used alone or in combination with other anti-hypertensive medications.  Later, they were found useful for other cardiovascular and kidney diseases including:
+
+Acute myocardial infarction (heart attack)
+Heart failure (left ventricular systolic dysfunction)
+Kidney complications of diabetes mellitus (diabetic nephropathy) by means of decreasing the blood pressure and increasing perfusion in glomerular arterioles.In treating high blood pressure, ACE inhibitors are often the first drug choice, particularly when diabetes is present, but age can lead to different choices and it is common to need more than one drug to obtain the desired improvement. There are fixed-dose combination drugs, such as ACE inhibitor and thiazide combinations. ACE inhibitors have also been used in chronic kidney failure and kidney involvement in systemic sclerosis (hardening of tissues, as scleroderma renal crisis). In those with stable coronary artery disease, but no heart failure, benefits are similar to other usual treatments.In 2012, there was a meta-analysis published in the BMJ that described the protective role of ACE inhibitors in reducing the risk of pneumonia when compared to ARBs (Angiotensin II Receptor Blockers). The authors found a decreased risk in patients with previous stroke (54% risk reduction), with heart failure (37%  risk reduction), and of Asian descent (43% risk reduction vs 54% risk reduction in non-Asian population). However, no reduced pneumonia related mortality was observed.
+
+Other
+ACE inhibitors may also be used to help decrease excessive water consumption in people with schizophrenia resulting in psychogenic polydipsia. A double-blind, placebo-controlled trial showed that when used for this purpose, enalapril led to decreased consumption (determined by urine output and osmolality) in 60% of people; the same effect has been demonstrated in other ACE inhibitors.Additionally ACEi are commonly used after renal transplant to manage post-transplant erythrocytosis, a condition characterised by a persistently high hematocrit greater than 51% which often develops 8-24 months after successful transplantation, as ACEi have been shown to decrease erythropoietin production.
+
+Adverse effects
+Common side effects include: low blood pressure, cough, hyperkalemia, headache, dizziness, fatigue, nausea, and kidney impairment.The main adverse effects of ACE inhibition can be understood from their pharmacological action. The other reported adverse effects are liver problems and effects on the fetus. Kidney problems may occur with all ACE inhibitors that directly follows from their mechanism of action. Patients starting on an ACE inhibitor usually have a modest reduction in glomerular filtration rate (GFR). However, the decrease may be significant in conditions of pre-existing decreased renal perfusions, such as renal artery stenosis, heart failure, polycystic kidney disease, or volume depletion. In these patients, the maintenance of GFR depends on angiotensin-II-dependent efferent vasomotor tone. Therefore, renal function should be closely monitored over the first few days after initiation of treatment with ACE inhibitor in patients with decreased renal perfusion. A moderate reduction in renal function, no greater than 30% rise in serum creatinine, that is stabilized after a week of treatment is deemed acceptable as part of the therapeutic effect, providing the residual renal function is sufficient. 
+Reduced GFR is especially a problem if the patient is concomitantly taking an NSAID and a diuretic. When the three drugs are taken together,  the risk of developing renal failure is significantly increased.High blood potassium is another possible complication of treatment with an ACE inhibitor due to its effect on aldosterone. Suppression of angiotensin II leads to a decrease in aldosterone levels. Since aldosterone is responsible for increasing the excretion of potassium, ACE inhibitors can cause retention of potassium. Some people, however, can continue to lose potassium while on an ACE inhibitor. Hyperkalemia may decrease the velocity of impulse conduction in the nerves and muscles, including cardiac tissues. This leads to cardiac dysfunction and neuromuscular consequences, such as muscle weakness, paresthesia, nausea, diarrhea, and others. Close monitoring of potassium levels is required in patients receiving treatment with ACE inhibitors who are at risk of hyperkalemia.Another possible adverse effect specific for ACE inhibitors, but not for other RAAS blockers, is an increase in bradykinin level.A persistent dry cough is a relatively common adverse effect believed to be associated with the increases in bradykinin levels produced by ACE inhibitors, although the role of bradykinin in producing these symptoms has been disputed. Many cases of cough in people on ACE inhibitors may not be from the medication itself, however. People who experience this cough are often switched to angiotensin II receptor antagonists.
+Some (0.7%) develop angioedema due to increased bradykinin levels. A genetic predisposition may exist.A severe rare allergic reaction can affect the bowel wall and secondarily cause abdominal pain.
+
+Blood
+Hematologic effects, such as neutropenia, agranulocytosis and other blood dyscrasias, have occurred during therapy with ACE inhibitors, especially in people with additional risk factors.
+
+Pregnancy
+In pregnant women, ACE inhibitors taken during all the trimesters have been reported to cause congenital malformations, stillbirths, and neonatal deaths. Commonly reported fetal abnormalities include hypotension, renal dysplasia, anuria/oliguria, oligohydramnios, intrauterine growth retardation, pulmonary hypoplasia, patent ductus arteriosus, and incomplete ossification of the skull. Overall, about half of newborns exposed to ACE inhibitors are adversely affected, leading to birth defects.ACE inhibitors are ADEC pregnancy category D and should be avoided in women who are likely to become pregnant. In the U.S., ACE inhibitors must be labeled with a boxed warning concerning the risk of birth defects when taken during the second and third trimester. Their use in the first trimester is also associated with a risk of major congenital malformations, particularly affecting the cardiovascular and central nervous systems.
+
+Overdose
+Symptoms and Treatment: There are few reports of ACE inhibitor overdose in the literature. The most likely manifestations are hypotension, which may be severe, hyperkalemia, hyponatremia and renal impairment with metabolic acidosis. Treatment should be mainly symptomatic and supportive, with volume expansion using normal saline to correct hypotension and improve renal function, and gastric lavage followed by activated charcoal and a cathartic to prevent further absorption of the drug. Captopril, enalapril, lisinopril and perindopril are known to be removable by hemodialysis.
+
+Contraindications and precautions
+The ACE inhibitors are contraindicated in people with:
+
+Pregnancy or breastfeeding
+Previous angioedema associated with ACE inhibitor therapy
+Bilateral renal artery stenosis
+Hypersensitivity to ACE inhibitorsACE inhibitors should be used with caution in people with:
+
+Impaired renal function
+Aortic valve stenosis or cardiac outflow obstruction
+Hypovolemia or dehydration
+Hemodialysis with high-flux polyacrylonitrile membranesA combination of ACE inhibitor with other drugs may increase effects of these drugs, but also the risk of adverse effects. The commonly reported adverse effects of drug combination with ACE are acute renal failure, hypotension, and hyperkalemia. The drugs interacting with ACE inhibitor should be prescribed with caution. Special attention should be given to combinations of ACE inhibitor with other RAAS blockers, diuretics (especially potassium-sparing diuretics), NSAIDs, anticoagulants, cyclosporine, DPP-4 inhibitors, and potassium supplements.
+Potassium supplementation should be used with caution and under medical supervision owing to the hyperkalemic effect of ACE inhibitors.Concomitant use with cyclooxygenase inhibitors tends to decrease ACE inhibitor's hypotensive effect.
+
+Mechanism of action
+ACE inhibitors reduce the activity of the renin–angiotensin–aldosterone system (RAAS) as the primary etiologic (causal) event in the development of hypertension in people with diabetes mellitus, as part of the insulin-resistance syndrome or as a manifestation of renal disease.
+
+Renin–angiotensin–aldosterone system
+The renin–angiotensin–aldosterone system is a major blood pressure regulating mechanism. Markers of electrolyte and water imbalance in the body such as hypotension, low distal tubule sodium concentration, decreased blood volume and high sympathetic tone trigger the release of the enzyme renin from the cells of juxtaglomerular apparatus in the kidney. 
+Renin activates a circulating liver derived prohormone angiotensinogen by proteolytic cleavage of all but its first ten amino acid residues known as angiotensin I. ACE (angiotensin converting enzyme) then removes a further two residues, converting angiotensin I into angiotensin II. ACE is found in the pulmonary circulation and in the endothelium of many blood vessels. The system increases blood pressure by increasing the amount of salt and water the body retains, although angiotensin is also very good at causing the blood vessels to tighten (a potent vasoconstrictor).
+
+Effects
+ACE inhibitors block the conversion of angiotensin I (ATI) to angiotensin II (ATII). They thereby lower arteriolar resistance and increase venous capacity; decrease cardiac output, cardiac index, stroke work, and volume; lower resistance in blood vessels in the kidneys; and lead to increased natriuresis (excretion of sodium in the urine). Renin increases in concentration in the blood as a result of negative feedback of conversion of ATI to ATII. ATI increases for the same reason; ATII and aldosterone decrease. Bradykinin increases because of less inactivation by ACE.
+Under normal conditions, angiotensin II has these effects:
+
+Vasoconstriction (narrowing of blood vessels) and vascular smooth muscle hypertrophy (enlargement) induced by ATII may lead to increased blood pressure and hypertension. Further, constriction of the efferent arterioles of the kidney leads to increased perfusion pressure in the glomeruli.
+It contributes to ventricular remodeling and ventricular hypertrophy of the heart through stimulation of the proto-oncogenes c-fos, c-jun, c-myc, transforming growth factor beta (TGF-B), through fibrogenesis and apoptosis (programmed cell death).
+Stimulation by ATII of the adrenal cortex to release aldosterone, a hormone that acts on kidney tubules, causes sodium and chloride ions retention and potassium excretion. Sodium is a ""water-holding"" ion, so water is also retained, which leads to increased blood volume, hence an increase in blood pressure.
+Stimulation of the posterior pituitary to release vasopressin (antidiuretic hormone, ADH) also acts on the kidneys to increase water retention. If ADH production is excessive in heart failure, Na+ level in the plasma may fall (hyponatremia), and this is a sign of increased risk of death in heart failure patients.
+A decrease renal protein kinase CDuring the course of ACE inhibitor use, the production of ATII is decreased, which prevents aldosterone release from the adrenal cortex. This allows the kidney to excrete sodium ions along with obligate water, and retain potassium ions. This decreases blood volume, leading to decreased blood pressure.Epidemiological and clinical studies have shown ACE inhibitors reduce the progress of diabetic nephropathy independently from their blood pressure-lowering effect. This action of ACE inhibitors is used in the prevention of diabetic renal failure.
+ACE inhibitors have been shown to be effective for indications other than hypertension even in patients with normal blood pressure. The use of a maximum dose of ACE inhibitors in such patients (including for prevention of diabetic nephropathy, congestive heart failure, and prophylaxis of cardiovascular events) is justified, because it improves clinical outcomes independently of the blood pressure-lowering effect of ACE inhibitors. Such therapy, of course, requires careful and gradual titration of the dose to prevent the effects of rapidly decreasing blood pressure (dizziness, fainting, etc.).
+ACE inhibitors have also been shown to cause a central enhancement of parasympathetic nervous system activity in healthy volunteers and patients with heart failure. This action may reduce the prevalence of malignant cardiac arrhythmias, and the reduction in sudden death reported in large clinical trials.
+ACE Inhibitors also reduce plasma norepinephrine levels, and its resulting vasoconstriction effects, in heart failure patients, thus breaking the vicious circles of sympathetic and renin angiotensin system activation, which sustains the downward spiral in cardiac function in congestive heart failure
+The ACE inhibitor enalapril has also been shown to reduce cardiac cachexia in patients with chronic heart failure. Cachexia is a poor prognostic sign in patients with chronic heart failure.
+ACE inhibitors are under early investigation for the treatment of frailty and muscle wasting (sarcopenia) in elderly patients without heart failure.
+
+Examples
+ACE inhibitors are easily identifiable by their common suffix, '-pril'. ACE inhibitors can be divided into three groups based on their molecular structure of the enzyme binding sites (sulfhydryl, phosphinyl, carboxyl) to the active center of ACE:
+
+Sulfhydryl-containing agents
+Alacepril
+Captopril (trade name Capoten), the first ACE inhibitor.
+ZofenoprilThese agents appear to show antioxidative properties but may be involved in adverse events such as skin eruptions.
+
+Dicarboxylate-containing agents
+This is the largest group, including:
+
+Enalapril (Vasotec/Renitec/Berlipril/Enap/Enalapril Profarma)
+Ramipril (Altace/Prilace/Ramace/Ramiwin/Triatec/Tritace/Ramitac)
+Quinapril (Accupril)
+Perindopril (Coversyl/Aceon/Perindo)
+Lisinopril (Listril/Lopril/Novatec/Prinivil/Zestril, Lisidigal)
+Benazepril (Lotensin)
+Imidapril (Tanatril)
+Trandolapril (Mavik/Odrik/Gopten)
+Cilazapril (Inhibace)
+
+Phosphonate-containing agents
+Fosinopril (Fositen/Monopril) is the only member of this group
+
+Naturally occurring
+A comprehensive resource on anti-hypertensive peptides is available in form of a database. It contains around 1700 unique antihypertensive peptides
+Arfalasin (HOE 409) is angiotensin antagonist.
+
+Dairy products
+Casokinins and lactokinins, breakdown products of casein and whey, occur naturally after ingestion of milk products, especially cultured milk. Their role in blood pressure control is uncertain.
+The lactotripeptides Val-Pro-Pro and Ile-Pro-Pro produced by the probiotic Lactobacillus helveticus or derived from casein have been shown to have ACE-inhibiting and antihypertensive functions. In one study, L. helveticus PR4 was isolated from Italian cheeses.
+
+Comparative information
+All ACE inhibitors have similar antihypertensive efficacy when equivalent doses are administered. The main differences lie with captopril, the first ACE inhibitor. Captopril has a shorter duration of action and an increased incidence of adverse effects. It is also the only ACE inhibitor capable of passing through the blood–brain barrier, although the significance of this characteristic has not been shown to have any positive clinical effects.
+In a large clinical study, one of the agents in the ACE inhibitor class, ramipril (Altace), demonstrated an ability to reduce the mortality rates of patients suffering from a myocardial infarction and to slow the subsequent development of heart failure. This finding was made after it was discovered that regular use of ramipril reduced mortality rates even in test subjects not having suffered from hypertension.Some believe ramipril's additional benefits may be shared by some or all drugs in the ACE-inhibitor class. However, ramipril currently remains the only ACE inhibitor for which such effects are actually evidence-based.A meta-analysis confirmed that ACE inhibitors are effective and certainly the first-line choice in hypertension treatment. This meta-analysis was based on 20 trials and a cohort of 158,998 patients, of whom 91% were hypertensive. ACE inhibitors were used as the active treatment in seven trials (n=76,615) and angiotensin receptor blocker (ARB) in 13 trials (n=82,383).
+ACE inhibitors were associated with a statistically significant 10% mortality reduction: (HR 0.90; 95% CI, 0.84–0.97; P=0.004). In contrast, no significant mortality reduction was observed with ARB treatment (HR 0.99; 95% CI, 0.94–1.04; P=0.683). Analysis of mortality reduction by different ACE inhibitors showed that perindopril-based regimens are associated with a statistically significant 13% all-cause mortality reduction.
+Taking into account the broad spectrum of the hypertensive population, one might expect that an effective treatment with ACE inhibitors, in particular with perindopril, would result in an important gain of lives saved.
+
+Equivalent doses in hypertension
+The ACE inhibitors have different strengths with different starting dosages. Dosage should be adjusted according to the clinical response.
+
+Angiotensin II receptor antagonists
+ACE inhibitors possess many common characteristics with another class of cardiovascular drugs, angiotensin II receptor antagonists, which are often used when patients are intolerant of the adverse effects produced by ACE inhibitors. ACE inhibitors do not completely prevent the formation of angiotensin II, as blockage is dose-dependent, so angiotensin II receptor antagonists may be useful because they act to prevent the action of angiotensin II at the AT1 receptor, leaving AT2 receptor unblocked; the latter may have consequences needing further study.
+
+Use in combination
+The combination therapy of angiotensin II receptor antagonists with ACE inhibitors may be superior to either agent alone. This combination may increase levels of bradykinin while blocking the generation of angiotensin II and its activity at the AT1 receptor. This 'dual blockade' may be more effective than using an ACE inhibitor alone, because angiotensin II can be generated via non-ACE-dependent pathways. Preliminary studies suggest this combination of pharmacologic agents may be advantageous in the treatment of essential hypertension, chronic heart failure, and nephropathy. However, the more recent ONTARGET study showed no benefit of combining the agents and more adverse events. While statistically significant results have been obtained for its role in treating hypertension, clinical significance may be lacking. There are warnings about the combination of ACE inhibitors with ARBs.Patients with heart failure may benefit from the combination in terms of reducing morbidity and ventricular remodeling.The most compelling evidence for the treatment of nephropathy has been found: This combination therapy partially reversed the proteinuria and also exhibited a renoprotective effect in patients afflicted with diabetic nephropathy, and pediatric IgA nephropathy.
+
+History
+Leonard T. Skeggs and his colleagues (including Norman Shumway) discovered ACE in plasma in 1956. It was also noted that those who worked in banana plantations in South-western Brazil collapsed after being bitten by a pit viper, leading to a search for a blood pressure lowering component in its venom. Brazilian scientist Sérgio Henrique Ferreira reported a bradykinin-potentiating factor (BPF) present in the venom of Bothrops jararaca, a South American pit viper, in 1965. Ferreira then went to John Vane's laboratory as a postdoctoral fellow with his already-isolated BPF. The conversion of the inactive angiotensin I to the potent angiotensin II was thought to take place in the plasma. However, in 1967, Kevin K. F. Ng and John R. Vane showed plasma ACE is too slow to account for the conversion of angiotensin I to angiotensin II in vivo. Subsequent investigation showed rapid conversion occurs during its passage through the pulmonary circulation.Bradykinin is rapidly inactivated in the circulating blood, and it disappears completely in a single pass through the pulmonary circulation. Angiotensin I also disappears in the pulmonary circulation because of its conversion to angiotensin II. Furthermore, angiotensin II passes through the lungs without any loss. The inactivation of bradykinin and the conversion of angiotensin I to angiotensin II in the lungs was thought to be caused by the same enzyme. In 1970, Ng and Vane, using BPF provided by Ferreira, showed the conversion is inhibited during its passage through the pulmonary circulation.BPFs are members of a family of peptides whose potentiating action is linked to inhibition of bradykinin by ACE. Molecular analysis of BPF yielded a nonapeptide BPF teprotide (SQ 20,881), which showed the greatest ACE inhibition potency and hypotensive effect in vivo. Teprotide had limited clinical value as a result of its peptide nature and lack of activity when given orally. In the early 1970s, knowledge of the structure-activity relationship required for inhibition of ACE was growing. David Cushman, Miguel Ondetti and colleagues used peptide analogues to study the structure of ACE, using carboxypeptidase A as a model. Their discoveries led to the development of captopril, the first orally-active ACE inhibitor, in 1975.Captopril was approved by the United States Food and Drug Administration in 1981. The first nonsulfhydryl-containing ACE inhibitor, enalapril, was marketed two years later. At least 12 other ACE inhibitors have since been marketed.In 1991, Japanese scientists created the first milk-based ACE inhibitor, in the form of a fermented milk drink, using specific cultures to liberate the tripeptide isoleucine-proline-proline (IPP) from the dairy protein. Valine-proline-proline (VPP) is also liberated in this process—another milk tripeptide with a very similar chemical structure to IPP. Together, these peptides are now often referred to as lactotripeptides. In 1996, the first human study confirmed the blood pressure-lowering effect of IPP in fermented milk. Although twice the amount of VPP is needed to achieve the same ACE-inhibiting activity as the originally discovered IPP, VPP also is assumed to add to the total blood pressure lowering effect.
+Since the first lactotripeptides discovery, more than 20 human clinical trials have been conducted in many different countries.
+
+Note
+See also
+Angiotensin II receptor blocker
+Discovery and development of angiotensin receptor blockers
+Loop diuretic, also used to treat CHF
+Renin inhibitor
+
+References
+External links
+Kumar R, Chaudhary K, Sharma M, Nagpal G, Chauhan JS, Singh S, Gautam A, Raghava GP (2014). ""AHTPDB: a comprehensive platform for analysis and presentation of antihypertensive peptides"". Nucleic Acids Res. 43 (Database issue): D956–D962. doi:10.1093/nar/gku1141. PMC 4383949. PMID 25392419.CS1 maint: multiple names: authors list (link)
+ACE Inhibitors: Summary of Recommendations – Consumer Reports Best Buy Drugs – free public education project"
+"Angiotensin-converting-enzyme inhibitors (ACE inhibitors) are a class of medication used primarily for the treatment of high blood pressure and heart failure. They work by causing relaxation of blood vessels as well as a decrease in blood volume, which leads to lower blood pressure and decreased oxygen demand from the heart. 
+ACE inhibitors inhibit the activity of angiotensin-converting enzyme, an important component of the renin–angiotensin system which converts angiotensin I to angiotensin II, and hydrolyses bradykinin. Therefore, ACE inhibitors decrease the formation of angiotensin II, a vasoconstrictor, and increase the level of bradykinin,  a peptide vasodilator. This combination is synergistic in lowering blood pressure. As a result of inhibiting the ACE enzyme in the bradykinin system, the ACE inhibitor drugs allow for increased levels of bradykinin which would normally be degraded. This mechanism can explain the two most common side effects seen with ACE Inhibitors: angioedema and cough. Bradykinin produces prostaglandin.  
+
+Frequently prescribed ACE inhibitors include benazepril, zofenopril, perindopril, trandolapril, captopril, enalapril, lisinopril, and ramipril.
+
+Medical use
+ACE inhibitors were initially approved for the treatment of hypertension and can be used alone or in combination with other anti-hypertensive medications.  Later, they were found useful for other cardiovascular and kidney diseases including:
+
+Acute myocardial infarction (heart attack)
+Heart failure (left ventricular systolic dysfunction)
+Kidney complications of diabetes mellitus (diabetic nephropathy) by means of decreasing the blood pressure and increasing perfusion in glomerular arterioles.In treating high blood pressure, ACE inhibitors are often the first drug choice, particularly when diabetes is present, but age can lead to different choices and it is common to need more than one drug to obtain the desired improvement. There are fixed-dose combination drugs, such as ACE inhibitor and thiazide combinations. ACE inhibitors have also been used in chronic kidney failure and kidney involvement in systemic sclerosis (hardening of tissues, as scleroderma renal crisis). In those with stable coronary artery disease, but no heart failure, benefits are similar to other usual treatments.In 2012, there was a meta-analysis published in the BMJ that described the protective role of ACE inhibitors in reducing the risk of pneumonia when compared to ARBs (Angiotensin II Receptor Blockers). The authors found a decreased risk in patients with previous stroke (54% risk reduction), with heart failure (37%  risk reduction), and of Asian descent (43% risk reduction vs 54% risk reduction in non-Asian population). However, no reduced pneumonia related mortality was observed.
+
+Other
+ACE inhibitors may also be used to help decrease excessive water consumption in people with schizophrenia resulting in psychogenic polydipsia. A double-blind, placebo-controlled trial showed that when used for this purpose, enalapril led to decreased consumption (determined by urine output and osmolality) in 60% of people; the same effect has been demonstrated in other ACE inhibitors.Additionally ACEi are commonly used after renal transplant to manage post-transplant erythrocytosis, a condition characterised by a persistently high hematocrit greater than 51% which often develops 8-24 months after successful transplantation, as ACEi have been shown to decrease erythropoietin production.
+
+Adverse effects
+Common side effects include: low blood pressure, cough, hyperkalemia, headache, dizziness, fatigue, nausea, and kidney impairment.The main adverse effects of ACE inhibition can be understood from their pharmacological action. The other reported adverse effects are liver problems and effects on the fetus. Kidney problems may occur with all ACE inhibitors that directly follows from their mechanism of action. Patients starting on an ACE inhibitor usually have a modest reduction in glomerular filtration rate (GFR). However, the decrease may be significant in conditions of pre-existing decreased renal perfusions, such as renal artery stenosis, heart failure, polycystic kidney disease, or volume depletion. In these patients, the maintenance of GFR depends on angiotensin-II-dependent efferent vasomotor tone. Therefore, renal function should be closely monitored over the first few days after initiation of treatment with ACE inhibitor in patients with decreased renal perfusion. A moderate reduction in renal function, no greater than 30% rise in serum creatinine, that is stabilized after a week of treatment is deemed acceptable as part of the therapeutic effect, providing the residual renal function is sufficient. 
+Reduced GFR is especially a problem if the patient is concomitantly taking an NSAID and a diuretic. When the three drugs are taken together,  the risk of developing renal failure is significantly increased.High blood potassium is another possible complication of treatment with an ACE inhibitor due to its effect on aldosterone. Suppression of angiotensin II leads to a decrease in aldosterone levels. Since aldosterone is responsible for increasing the excretion of potassium, ACE inhibitors can cause retention of potassium. Some people, however, can continue to lose potassium while on an ACE inhibitor. Hyperkalemia may decrease the velocity of impulse conduction in the nerves and muscles, including cardiac tissues. This leads to cardiac dysfunction and neuromuscular consequences, such as muscle weakness, paresthesia, nausea, diarrhea, and others. Close monitoring of potassium levels is required in patients receiving treatment with ACE inhibitors who are at risk of hyperkalemia.Another possible adverse effect specific for ACE inhibitors, but not for other RAAS blockers, is an increase in bradykinin level.A persistent dry cough is a relatively common adverse effect believed to be associated with the increases in bradykinin levels produced by ACE inhibitors, although the role of bradykinin in producing these symptoms has been disputed. Many cases of cough in people on ACE inhibitors may not be from the medication itself, however. People who experience this cough are often switched to angiotensin II receptor antagonists.
+Some (0.7%) develop angioedema due to increased bradykinin levels. A genetic predisposition may exist.A severe rare allergic reaction can affect the bowel wall and secondarily cause abdominal pain.
+
+Blood
+Hematologic effects, such as neutropenia, agranulocytosis and other blood dyscrasias, have occurred during therapy with ACE inhibitors, especially in people with additional risk factors.
+
+Pregnancy
+In pregnant women, ACE inhibitors taken during all the trimesters have been reported to cause congenital malformations, stillbirths, and neonatal deaths. Commonly reported fetal abnormalities include hypotension, renal dysplasia, anuria/oliguria, oligohydramnios, intrauterine growth retardation, pulmonary hypoplasia, patent ductus arteriosus, and incomplete ossification of the skull. Overall, about half of newborns exposed to ACE inhibitors are adversely affected, leading to birth defects.ACE inhibitors are ADEC pregnancy category D and should be avoided in women who are likely to become pregnant. In the U.S., ACE inhibitors must be labeled with a boxed warning concerning the risk of birth defects when taken during the second and third trimester. Their use in the first trimester is also associated with a risk of major congenital malformations, particularly affecting the cardiovascular and central nervous systems.
+
+Overdose
+Symptoms and Treatment: There are few reports of ACE inhibitor overdose in the literature. The most likely manifestations are hypotension, which may be severe, hyperkalemia, hyponatremia and renal impairment with metabolic acidosis. Treatment should be mainly symptomatic and supportive, with volume expansion using normal saline to correct hypotension and improve renal function, and gastric lavage followed by activated charcoal and a cathartic to prevent further absorption of the drug. Captopril, enalapril, lisinopril and perindopril are known to be removable by hemodialysis.
+
+Contraindications and precautions
+The ACE inhibitors are contraindicated in people with:
+
+Pregnancy or breastfeeding
+Previous angioedema associated with ACE inhibitor therapy
+Bilateral renal artery stenosis
+Hypersensitivity to ACE inhibitorsACE inhibitors should be used with caution in people with:
+
+Impaired renal function
+Aortic valve stenosis or cardiac outflow obstruction
+Hypovolemia or dehydration
+Hemodialysis with high-flux polyacrylonitrile membranesA combination of ACE inhibitor with other drugs may increase effects of these drugs, but also the risk of adverse effects. The commonly reported adverse effects of drug combination with ACE are acute renal failure, hypotension, and hyperkalemia. The drugs interacting with ACE inhibitor should be prescribed with caution. Special attention should be given to combinations of ACE inhibitor with other RAAS blockers, diuretics (especially potassium-sparing diuretics), NSAIDs, anticoagulants, cyclosporine, DPP-4 inhibitors, and potassium supplements.
+Potassium supplementation should be used with caution and under medical supervision owing to the hyperkalemic effect of ACE inhibitors.Concomitant use with cyclooxygenase inhibitors tends to decrease ACE inhibitor's hypotensive effect.
+
+Mechanism of action
+ACE inhibitors reduce the activity of the renin–angiotensin–aldosterone system (RAAS) as the primary etiologic (causal) event in the development of hypertension in people with diabetes mellitus, as part of the insulin-resistance syndrome or as a manifestation of renal disease.
+
+Renin–angiotensin–aldosterone system
+The renin–angiotensin–aldosterone system is a major blood pressure regulating mechanism. Markers of electrolyte and water imbalance in the body such as hypotension, low distal tubule sodium concentration, decreased blood volume and high sympathetic tone trigger the release of the enzyme renin from the cells of juxtaglomerular apparatus in the kidney. 
+Renin activates a circulating liver derived prohormone angiotensinogen by proteolytic cleavage of all but its first ten amino acid residues known as angiotensin I. ACE (angiotensin converting enzyme) then removes a further two residues, converting angiotensin I into angiotensin II. ACE is found in the pulmonary circulation and in the endothelium of many blood vessels. The system increases blood pressure by increasing the amount of salt and water the body retains, although angiotensin is also very good at causing the blood vessels to tighten (a potent vasoconstrictor).
+
+Effects
+ACE inhibitors block the conversion of angiotensin I (ATI) to angiotensin II (ATII). They thereby lower arteriolar resistance and increase venous capacity; decrease cardiac output, cardiac index, stroke work, and volume; lower resistance in blood vessels in the kidneys; and lead to increased natriuresis (excretion of sodium in the urine). Renin increases in concentration in the blood as a result of negative feedback of conversion of ATI to ATII. ATI increases for the same reason; ATII and aldosterone decrease. Bradykinin increases because of less inactivation by ACE.
+Under normal conditions, angiotensin II has these effects:
+
+Vasoconstriction (narrowing of blood vessels) and vascular smooth muscle hypertrophy (enlargement) induced by ATII may lead to increased blood pressure and hypertension. Further, constriction of the efferent arterioles of the kidney leads to increased perfusion pressure in the glomeruli.
+It contributes to ventricular remodeling and ventricular hypertrophy of the heart through stimulation of the proto-oncogenes c-fos, c-jun, c-myc, transforming growth factor beta (TGF-B), through fibrogenesis and apoptosis (programmed cell death).
+Stimulation by ATII of the adrenal cortex to release aldosterone, a hormone that acts on kidney tubules, causes sodium and chloride ions retention and potassium excretion. Sodium is a ""water-holding"" ion, so water is also retained, which leads to increased blood volume, hence an increase in blood pressure.
+Stimulation of the posterior pituitary to release vasopressin (antidiuretic hormone, ADH) also acts on the kidneys to increase water retention. If ADH production is excessive in heart failure, Na+ level in the plasma may fall (hyponatremia), and this is a sign of increased risk of death in heart failure patients.
+A decrease renal protein kinase CDuring the course of ACE inhibitor use, the production of ATII is decreased, which prevents aldosterone release from the adrenal cortex. This allows the kidney to excrete sodium ions along with obligate water, and retain potassium ions. This decreases blood volume, leading to decreased blood pressure.Epidemiological and clinical studies have shown ACE inhibitors reduce the progress of diabetic nephropathy independently from their blood pressure-lowering effect. This action of ACE inhibitors is used in the prevention of diabetic renal failure.
+ACE inhibitors have been shown to be effective for indications other than hypertension even in patients with normal blood pressure. The use of a maximum dose of ACE inhibitors in such patients (including for prevention of diabetic nephropathy, congestive heart failure, and prophylaxis of cardiovascular events) is justified, because it improves clinical outcomes independently of the blood pressure-lowering effect of ACE inhibitors. Such therapy, of course, requires careful and gradual titration of the dose to prevent the effects of rapidly decreasing blood pressure (dizziness, fainting, etc.).
+ACE inhibitors have also been shown to cause a central enhancement of parasympathetic nervous system activity in healthy volunteers and patients with heart failure. This action may reduce the prevalence of malignant cardiac arrhythmias, and the reduction in sudden death reported in large clinical trials.
+ACE Inhibitors also reduce plasma norepinephrine levels, and its resulting vasoconstriction effects, in heart failure patients, thus breaking the vicious circles of sympathetic and renin angiotensin system activation, which sustains the downward spiral in cardiac function in congestive heart failure
+The ACE inhibitor enalapril has also been shown to reduce cardiac cachexia in patients with chronic heart failure. Cachexia is a poor prognostic sign in patients with chronic heart failure.
+ACE inhibitors are under early investigation for the treatment of frailty and muscle wasting (sarcopenia) in elderly patients without heart failure.
+
+Examples
+ACE inhibitors are easily identifiable by their common suffix, '-pril'. ACE inhibitors can be divided into three groups based on their molecular structure of the enzyme binding sites (sulfhydryl, phosphinyl, carboxyl) to the active center of ACE:
+
+Sulfhydryl-containing agents
+Alacepril
+Captopril (trade name Capoten), the first ACE inhibitor.
+ZofenoprilThese agents appear to show antioxidative properties but may be involved in adverse events such as skin eruptions.
+
+Dicarboxylate-containing agents
+This is the largest group, including:
+
+Enalapril (Vasotec/Renitec/Berlipril/Enap/Enalapril Profarma)
+Ramipril (Altace/Prilace/Ramace/Ramiwin/Triatec/Tritace/Ramitac)
+Quinapril (Accupril)
+Perindopril (Coversyl/Aceon/Perindo)
+Lisinopril (Listril/Lopril/Novatec/Prinivil/Zestril, Lisidigal)
+Benazepril (Lotensin)
+Imidapril (Tanatril)
+Trandolapril (Mavik/Odrik/Gopten)
+Cilazapril (Inhibace)
+
+Phosphonate-containing agents
+Fosinopril (Fositen/Monopril) is the only member of this group
+
+Naturally occurring
+A comprehensive resource on anti-hypertensive peptides is available in form of a database. It contains around 1700 unique antihypertensive peptides
+Arfalasin (HOE 409) is angiotensin antagonist.
+
+Dairy products
+Casokinins and lactokinins, breakdown products of casein and whey, occur naturally after ingestion of milk products, especially cultured milk. Their role in blood pressure control is uncertain.
+The lactotripeptides Val-Pro-Pro and Ile-Pro-Pro produced by the probiotic Lactobacillus helveticus or derived from casein have been shown to have ACE-inhibiting and antihypertensive functions. In one study, L. helveticus PR4 was isolated from Italian cheeses.
+
+Comparative information
+All ACE inhibitors have similar antihypertensive efficacy when equivalent doses are administered. The main differences lie with captopril, the first ACE inhibitor. Captopril has a shorter duration of action and an increased incidence of adverse effects. It is also the only ACE inhibitor capable of passing through the blood–brain barrier, although the significance of this characteristic has not been shown to have any positive clinical effects.
+In a large clinical study, one of the agents in the ACE inhibitor class, ramipril (Altace), demonstrated an ability to reduce the mortality rates of patients suffering from a myocardial infarction and to slow the subsequent development of heart failure. This finding was made after it was discovered that regular use of ramipril reduced mortality rates even in test subjects not having suffered from hypertension.Some believe ramipril's additional benefits may be shared by some or all drugs in the ACE-inhibitor class. However, ramipril currently remains the only ACE inhibitor for which such effects are actually evidence-based.A meta-analysis confirmed that ACE inhibitors are effective and certainly the first-line choice in hypertension treatment. This meta-analysis was based on 20 trials and a cohort of 158,998 patients, of whom 91% were hypertensive. ACE inhibitors were used as the active treatment in seven trials (n=76,615) and angiotensin receptor blocker (ARB) in 13 trials (n=82,383).
+ACE inhibitors were associated with a statistically significant 10% mortality reduction: (HR 0.90; 95% CI, 0.84–0.97; P=0.004). In contrast, no significant mortality reduction was observed with ARB treatment (HR 0.99; 95% CI, 0.94–1.04; P=0.683). Analysis of mortality reduction by different ACE inhibitors showed that perindopril-based regimens are associated with a statistically significant 13% all-cause mortality reduction.
+Taking into account the broad spectrum of the hypertensive population, one might expect that an effective treatment with ACE inhibitors, in particular with perindopril, would result in an important gain of lives saved.
+
+Equivalent doses in hypertension
+The ACE inhibitors have different strengths with different starting dosages. Dosage should be adjusted according to the clinical response.
+
+Angiotensin II receptor antagonists
+ACE inhibitors possess many common characteristics with another class of cardiovascular drugs, angiotensin II receptor antagonists, which are often used when patients are intolerant of the adverse effects produced by ACE inhibitors. ACE inhibitors do not completely prevent the formation of angiotensin II, as blockage is dose-dependent, so angiotensin II receptor antagonists may be useful because they act to prevent the action of angiotensin II at the AT1 receptor, leaving AT2 receptor unblocked; the latter may have consequences needing further study.
+
+Use in combination
+The combination therapy of angiotensin II receptor antagonists with ACE inhibitors may be superior to either agent alone. This combination may increase levels of bradykinin while blocking the generation of angiotensin II and its activity at the AT1 receptor. This 'dual blockade' may be more effective than using an ACE inhibitor alone, because angiotensin II can be generated via non-ACE-dependent pathways. Preliminary studies suggest this combination of pharmacologic agents may be advantageous in the treatment of essential hypertension, chronic heart failure, and nephropathy. However, the more recent ONTARGET study showed no benefit of combining the agents and more adverse events. While statistically significant results have been obtained for its role in treating hypertension, clinical significance may be lacking. There are warnings about the combination of ACE inhibitors with ARBs.Patients with heart failure may benefit from the combination in terms of reducing morbidity and ventricular remodeling.The most compelling evidence for the treatment of nephropathy has been found: This combination therapy partially reversed the proteinuria and also exhibited a renoprotective effect in patients afflicted with diabetic nephropathy, and pediatric IgA nephropathy.
+
+History
+Leonard T. Skeggs and his colleagues (including Norman Shumway) discovered ACE in plasma in 1956. It was also noted that those who worked in banana plantations in South-western Brazil collapsed after being bitten by a pit viper, leading to a search for a blood pressure lowering component in its venom. Brazilian scientist Sérgio Henrique Ferreira reported a bradykinin-potentiating factor (BPF) present in the venom of Bothrops jararaca, a South American pit viper, in 1965. Ferreira then went to John Vane's laboratory as a postdoctoral fellow with his already-isolated BPF. The conversion of the inactive angiotensin I to the potent angiotensin II was thought to take place in the plasma. However, in 1967, Kevin K. F. Ng and John R. Vane showed plasma ACE is too slow to account for the conversion of angiotensin I to angiotensin II in vivo. Subsequent investigation showed rapid conversion occurs during its passage through the pulmonary circulation.Bradykinin is rapidly inactivated in the circulating blood, and it disappears completely in a single pass through the pulmonary circulation. Angiotensin I also disappears in the pulmonary circulation because of its conversion to angiotensin II. Furthermore, angiotensin II passes through the lungs without any loss. The inactivation of bradykinin and the conversion of angiotensin I to angiotensin II in the lungs was thought to be caused by the same enzyme. In 1970, Ng and Vane, using BPF provided by Ferreira, showed the conversion is inhibited during its passage through the pulmonary circulation.BPFs are members of a family of peptides whose potentiating action is linked to inhibition of bradykinin by ACE. Molecular analysis of BPF yielded a nonapeptide BPF teprotide (SQ 20,881), which showed the greatest ACE inhibition potency and hypotensive effect in vivo. Teprotide had limited clinical value as a result of its peptide nature and lack of activity when given orally. In the early 1970s, knowledge of the structure-activity relationship required for inhibition of ACE was growing. David Cushman, Miguel Ondetti and colleagues used peptide analogues to study the structure of ACE, using carboxypeptidase A as a model. Their discoveries led to the development of captopril, the first orally-active ACE inhibitor, in 1975.Captopril was approved by the United States Food and Drug Administration in 1981. The first nonsulfhydryl-containing ACE inhibitor, enalapril, was marketed two years later. At least 12 other ACE inhibitors have since been marketed.In 1991, Japanese scientists created the first milk-based ACE inhibitor, in the form of a fermented milk drink, using specific cultures to liberate the tripeptide isoleucine-proline-proline (IPP) from the dairy protein. Valine-proline-proline (VPP) is also liberated in this process—another milk tripeptide with a very similar chemical structure to IPP. Together, these peptides are now often referred to as lactotripeptides. In 1996, the first human study confirmed the blood pressure-lowering effect of IPP in fermented milk. Although twice the amount of VPP is needed to achieve the same ACE-inhibiting activity as the originally discovered IPP, VPP also is assumed to add to the total blood pressure lowering effect.
+Since the first lactotripeptides discovery, more than 20 human clinical trials have been conducted in many different countries.
+
+Note
+See also
+Angiotensin II receptor blocker
+Discovery and development of angiotensin receptor blockers
+Loop diuretic, also used to treat CHF
+Renin inhibitor
+
+References
+External links
+Kumar R, Chaudhary K, Sharma M, Nagpal G, Chauhan JS, Singh S, Gautam A, Raghava GP (2014). ""AHTPDB: a comprehensive platform for analysis and presentation of antihypertensive peptides"". Nucleic Acids Res. 43 (Database issue): D956–D962. doi:10.1093/nar/gku1141. PMC 4383949. PMID 25392419.CS1 maint: multiple names: authors list (link)
+ACE Inhibitors: Summary of Recommendations – Consumer Reports Best Buy Drugs – free public education project"
+"ATC code B Blood and blood forming organs is a section of the Anatomical Therapeutic Chemical Classification System, a system of alphanumeric codes developed by the World Health Organization (WHO) for the classification of drugs and other medical products.
+Codes for veterinary use (ATCvet codes) can be created by placing the letter Q in front of the human ATC code: for example, QB. National issues of the ATC classification may include additional codes not present in this list, which follows the WHO version.
+
+
+== References =="
+"ATC code C Cardiovascular system is a section of the Anatomical Therapeutic Chemical Classification System, a system of alphanumeric codes developed by the World Health Organization (WHO) for the classification of drugs and other medical products.
+Codes for veterinary use (ATCvet codes) can be created by placing the letter Q in front of the human ATC code: for example, QC. National issues of the ATC classification may include additional codes not present in this list, which follows the WHO version.
+
+
+== References =="
+"ATC code C02 Antihypertensives is a therapeutic subgroup of the Anatomical Therapeutic Chemical Classification System, a system of alphanumeric codes developed by the World Health Organization (WHO) for the classification of drugs and other medical products. Subgroup C02 is part of the anatomical group C Cardiovascular system.
+Codes for veterinary use (ATCvet codes) can be created by placing the letter Q in front of the human ATC code: for example, QC02. National issues of the ATC classification may include additional codes not present in this list, which follows the WHO version.
+
+C02A Antiadrenergic agents, centrally acting
+C02AA Rauvolfia alkaloids
+C02AA01 Rescinnamine
+C02AA02 Reserpine
+C02AA03 Combinations of rauwolfia alkaloids
+C02AA04 Rauwolfia alkaloids, whole root
+C02AA05 Deserpidine
+C02AA06 Methoserpidine
+C02AA07 Bietaserpine
+C02AA52 Reserpine, combinations
+C02AA53 Combinations of rauwolfia alkaloids, combinations
+C02AA57 Bietaserpine, combinations
+
+C02AB Methyldopa
+C02AB01 Methyldopa (levorotatory)
+C02AB02 Methyldopa (racemic)
+
+C02AC Imidazoline receptor agonists
+C02AC01 Clonidine
+C02AC02 Guanfacine
+C02AC04 Tolonidine
+C02AC05 Moxonidine
+C02AC06 Rilmenidine
+
+C02B Antiadrenergic agents, ganglion-blocking
+C02BA Sulfonium derivatives
+C02BA01 Trimetaphan
+
+C02BB Secondary and tertiary amines
+C02BB01 Mecamylamine
+
+C02BC Bisquaternary ammonium compounds
+C02C Antiadrenergic agents, peripherally acting
+C02CA Alpha-adrenoreceptor antagonists
+C02CA01 Prazosin
+C02CA02 Indoramin
+C02CA03 Trimazosin
+C02CA04 Doxazosin
+C02CA06 Urapidil
+
+C02CC Guanidine derivatives
+C02CC01 Betanidine
+C02CC02 Guanethidine
+C02CC03 Guanoxan
+C02CC04 Debrisoquine
+C02CC05 Guanoclor
+C02CC06 Guanazodine
+C02CC07 Guanoxabenz
+
+C02D Arteriolar smooth muscle, agents acting on
+C02DA Thiazide derivatives
+C02DA01 Diazoxide
+
+C02DB Hydrazinophthalazine derivatives
+C02DB01 Dihydralazine
+C02DB02 Hydralazine
+C02DB03 Endralazine
+C02DB04 Cadralazine
+
+C02DC Pyrimidine derivatives
+C02DC01 Minoxidil
+
+C02DD Nitroferricyanide derivatives
+C02DD01 Nitroprusside
+
+C02DG Guanidine derivatives
+C02DG01 Pinacidil
+
+C02K Other antihypertensives
+C02KA Alkaloids, excluding rauwolfia
+C02KA01 Veratrum
+
+C02KB Tyrosine hydroxylase inhibitors
+C02KB01 Metirosine
+
+C02KC MAO inhibitors
+C02KC01 Pargyline
+
+C02KD Serotonin antagonists
+C02KD01 Ketanserin
+
+C02KX Antihypertensives for pulmonary arterial hypertension
+C02KX01 Bosentan
+C02KX02 Ambrisentan
+C02KX03 Sitaxentan
+C02KX04 Macitentan
+C02KX05 Riociguat
+C02KX52 Ambrisentan and tadalafil
+
+C02L Antihypertensives and diuretics in combination
+C02LA Rauwolfia alkaloids and diuretics in combination
+C02LA01 Reserpine and diuretics
+C02LA02 Rescinnamine and diuretics
+C02LA03 Deserpidine and diuretics
+C02LA04 Methoserpidine and diuretics
+C02LA07 Bietaserpine and diuretics
+C02LA08 Rauwolfia alkaloids, whole root and diuretics
+C02LA09 Syrosingopine and diuretics
+C02LA50 Combinations of rauwolfia alkaloids and diuretics including other combinations
+C02LA51 Reserpine and diuretics, combinations with other drugs
+C02LA52 Rescinnamine and diuretics, combinations with other drugs
+C02LA71 Reserpine and diuretics, combinations with psycholeptics
+
+C02LB Methyldopa and diuretics in combination
+C02LB01 Methyldopa (levorotatory) and diuretics
+
+C02LC Imidazoline receptor agonists in combination with diuretics
+C02LC01 Clonidine and diuretics
+C02LC05 Moxonidine and diuretics
+C02LC51 Clonidine and diuretics, combinations with other drugs
+
+C02LE Alpha-adrenoreceptor antagonists and diuretics
+C02LE01 Prazosin and diuretics
+
+C02LF Guanidine derivatives and diuretics
+C02LF01 Guanethidine and diuretics
+
+C02LG Hydrazinophthalazine derivatives and diuretics
+C02LG01 Dihydralazine and diuretics
+C02LG02 Hydralazine and diuretics
+C02LG03 Picodralazine and diuretics
+C02LG51 Dihydralazine and diuretics, combinations with other drugs
+C02LG73 Picodralazine and diuretics, combinations with psycholeptics
+
+C02LK Alkaloids, excluding rauwolfia, in combination with diuretics
+C02LK01 Veratrum and diuretics
+
+C02LL MAO inhibitors and diuretics
+C02LL01 Pargyline and diuretics
+
+C02LN Serotonin antagonists and diuretics
+C02LX Other antihypertensives and diuretics
+C02LX01 Pinacidil and diuretics
+
+C02N Combinations of antihypertensives in ATC-group C02
+Empty group
+
+
+== References =="
+"ATC code C07 Beta blocking agents is a therapeutic subgroup of the Anatomical Therapeutic Chemical Classification System, a system of alphanumeric codes developed by the World Health Organization (WHO) for the classification of drugs and other medical products. Subgroup C07 is part of the anatomical group C Cardiovascular system.
+Codes for veterinary use (ATCvet codes) can be created by placing the letter Q in front of the human ATC code: for example, QC07. ATCvet codes without corresponding human ATC codes are cited with the leading Q in the following list.National issues of the ATC classification may include additional codes not present in this list, which follows the WHO version.
+
+C07A Beta blocking agents
+C07AA Beta blocking agents, non-selective
+C07AA01 Alprenolol
+C07AA02 Oxprenolol
+C07AA03 Pindolol
+C07AA05 Propranolol
+C07AA06 Timolol
+C07AA07 Sotalol
+C07AA12 Nadolol
+C07AA14 Mepindolol
+C07AA15 Carteolol
+C07AA16 Tertatolol
+C07AA17 Bopindolol
+C07AA19 Bupranolol
+C07AA23 Penbutolol
+C07AA27 Cloranolol
+QC07AA90 Carazolol
+
+C07AB Beta blocking agents, selective
+C07AB01 Practolol
+C07AB02 Metoprolol
+C07AB03 Atenolol
+C07AB04 Acebutolol
+C07AB05 Betaxolol
+C07AB06 Bevantolol
+C07AB07 Bisoprolol
+C07AB08 Celiprolol
+C07AB09 Esmolol
+C07AB10 Epanolol
+C07AB11 S-atenolol
+C07AB12 Nebivolol
+C07AB13 Talinolol
+C07AB14 Landiolol
+
+C07AG Alpha and beta blocking agents
+C07AG01 Labetalol
+C07AG02 Carvedilol
+
+C07B Beta blocking agents and thiazides
+C07BA Beta blocking agents, non-selective, and thiazides
+C07BA02 Oxprenolol and thiazides
+C07BA05 Propranolol and thiazides
+C07BA06 Timolol and thiazides
+C07BA07 Sotalol and thiazides
+C07BA12 Nadolol and thiazides
+C07BA68 Metipranolol and thiazides, combinations
+
+C07BB Beta blocking agents, selective, and thiazides
+C07BB02 Metoprolol and thiazides
+C07BB03 Atenolol and thiazides
+C07BB04 Acebutolol and thiazides
+C07BB06 Bevantolol and thiazides
+C07BB07 Bisoprolol and thiazides
+C07BB12 Nebivolol and thiazides
+C07BB52 Metoprolol and thiazides, combinations
+
+C07BG Alpha and beta blocking agents and thiazides
+C07BG01 Labetalol and thiazides
+
+C07C Beta blocking agents and other diuretics
+C07CA Beta blocking agents, non-selective, and other diuretics
+C07CA02 Oxprenolol and other diuretics
+C07CA03 Pindolol and other diuretics
+C07CA17 Bopindolol and other diuretics
+C07CA23 Penbutolol and other diuretics
+
+C07CB Beta blocking agents, selective, and other diuretics
+C07CB02 Metoprolol and other diuretics
+C07CB03 Atenolol and other diuretics
+C07CB53 Atenolol and other diuretics, combinations
+
+C07CG Alpha and beta blocking agents and other diuretics
+C07CG01 Labetalol and other diuretics
+
+C07D Beta blocking agents, thiazides and other diuretics
+C07DA Beta blocking agents, non-selective, thiazides and other diuretics
+C07DA06 Timolol, thiazides and other diuretics
+
+C07DB Beta blocking agents, selective, thiazides and other diuretics
+C07DB01 Atenolol, thiazides and other diuretics
+
+C07E Beta blocking agents and vasodilators
+C07EA Beta blocking agents, non-selective, and vasodilators
+C07EB Beta blocking agents, selective, and vasodilators
+C07F Beta blocking agents, other combinations
+C07FB Beta blocking agents and calcium channel blockers
+C07FB02 Metoprolol and felodipine
+C07FB03 Atenolol and nifedipine
+C07FB07 Bisoprolol and amlodipine
+C07FB12 Nebivolol and amlodipine
+C07FB13 Metoprolol and amlodipine
+
+C07FX Beta blocking agents, other combinations
+C07FX01 Propranolol and other combinations
+C07FX02 Sotalol and acetylsalicylic acid
+C07FX03 Metoprolol and acetylsalicylic acid
+C07FX04 Bisoprolol and acetylsalicylic acid
+C07FX05 Metoprolol and ivabradine
+C07FX06 Carvedilol and ivabradine
+
+
+== References =="
+"The 2008 Summer Olympics (Chinese: 2008年夏季奥运会; pinyin: Liǎng qiān bā Nián Xiàjì Àoyùnhuì), officially the Games of the XXIX Olympiad (Chinese: 第二十九届夏季奥林匹克运动会; pinyin: Dì Èrshíjiǔ Jiè Xiàjì Àolínpǐkè Yùndònghuì) and also known as Beijing 2008 (Chinese: 北京2008; pinyin: Běijīng èr líng líng bā), were an international multisport event held from 8 to 24 August 2008 in Beijing, China. A total of 10,942 athletes from 204 National Olympic Committees (NOCs) competed in 28 sports and 302 events, one event more than those scheduled for the 2004 Summer Olympics. It marked the first time China had hosted the Olympic Games, and the third time the Summer Olympic Games had been held in East Asia, following the 1964 Olympics in Tokyo, Japan, and the 1988 Olympics in Seoul, South Korea. These were also the second Summer Olympic Games to be held in a communist state, the first being 1980 Summer Olympics in the Soviet Union (present day Russia).
+Beijing was awarded the 2008 Games over four competitors on 13 July 2001, having won a majority of votes from members of the International Olympic Committee (IOC) after two rounds of voting. The Government of the People's Republic of China promoted the 2008 Games and invested heavily in new facilities and transport systems. 37 venues were used to host the events, including twelve constructed specifically for the 2008 Games. The equestrian events were held in Hong Kong, making these the third Olympics for which the events were held under the jurisdiction of two different NOCs. The sailing events were contested in Qingdao, while the football events took place across several different cities.
+The official logo for the 2008 Games, titled ""Dancing Beijing ""(舞动北京), created by Guo Chunning (郭春宁), featured the Chinese character for capital (京, stylized into the shape of a human being) in reference to the host city. The 2008 Olympics were watched by 3.5 billion people worldwide, and featured the longest distance for an Olympic Torch relay. The 2008 Games also set numerous world and Olympic records, and were the most expensive Summer Olympics of all time, and the second most expensive overall, after the 2014 Winter Games in Sochi. The opening ceremony was lauded by spectators and numerous international presses as spectacular, spellbinding, and by many accounts, ""the greatest ever in the history of Olympics"". Beijing will host the 2022 Winter Olympics, making it the first city ever to host both the Summer and Winter Games.
+An unprecedented 87 countries won at least one medal during the 2008 Games. Host nation China won the most gold medals (48), and became the seventh different team to top an overall Summer Olympics medal tally, winning a total of 100 medals overall. The United States placed second in the gold medal tally but won the highest number of medals overall (112). The third place in the gold medal tally was achieved by Russia.
+These also became the first Olympic Games involving Montenegro and Serbia (as a separated states in 2006) and Nepal (as a republic, also in 2006), as well as the last Olympic Games involving Libyan Arab Jamahiriya (dissolved in 2011) and Netherlands Antilles (dissolved in 2010). These games saw the return of the Summer Olympics to Asia after 22 years, the last being 1988 in Seoul.
+
+Organization
+Bid
+Beijing was elected as the host city for the 2008 Summer Olympics on 13 July 2001, during the 112th IOC Session in Moscow, defeating bids from Toronto, Paris, Istanbul, and Osaka. Prior to the session, five other cities (Bangkok, Cairo, Havana, Kuala Lumpur, and Seville) had submitted bids to the IOC, but failed to make the short list chosen by the IOC Executive Committee in 2000. After the first round of voting, Beijing held a significant lead over the other four candidates. Osaka received only six votes and was eliminated. In the second round, Beijing was supported by a majority of voters, eliminating the need for subsequent rounds. Toronto's bid was its fifth failure since 1960 (failed bids for 1960, 1964, 1976 and 1996 Games, losing to Rome, Tokyo, Montreal and Atlanta).Members of the IOC did not disclose their votes, but news reports speculated that broad international support led to China's selection, especially from developing nations that had received assistance from China to construct stadiums. The size of China, its increased enforcement of doping controls, and sympathy concerning its loss of the 2000 Summer Olympics to Sydney were all factors in the decision. Eight years earlier, Beijing had led every round of voting for the 2000 Summer Olympics before losing to Sydney by two votes in the final round.Human rights concerns expressed by Amnesty International and politicians in both Europe and the United States were considered by the delegates, according to IOC Executive Director François Carrard. Carrard and others suggested that the selection might lead to improvements in human rights in China. In addition, many IOC delegates who had formerly been athletes expressed concern about heat and air quality during the Games, considering the high levels of air pollution in Beijing. China outlined plans to address these environmental concerns in its bid application.
+
+Costs
+The Oxford Olympics Study 2016 estimates the outturn cost of the Beijing 2008 Summer Olympics at US$6.8 billion in 2015-dollars and cost overrun at 2% in real terms. This includes sports-related costs only, that is, (i) operational costs incurred by the organizing committee to stage the Games, e.g., expenditures for technology, transportation, workforce, administration, security, catering, ceremonies, and medical services, and (ii) direct capital costs incurred by the host city and country or private investors to build the competition venues, the Olympic village, international broadcast center, and media and press center, which are required to host the Games. Indirect capital costs are not included, such as for road, rail, or airport infrastructure, or for hotel upgrades or other business investment incurred in preparation for the Games but not directly related to staging the Games. The Beijing Olympics' cost of US$6.8 billion compares with costs of US$4.6 billion for Rio 2016 and US$15 billion for London 2012. The average cost for the Summer Games since 1960 is US$5.2 billion.
+On 6 March 2009, the Beijing Organizing Committee for the Olympic Games reported that total spending on the Games was ""generally as much as that of the Athens 2004 Olympic Games"", which was equivalent to about US$15 billion. They went on to claim that surplus revenues from the Games would exceed the original target of $16 million. Other reports, however, estimated the total costs from $40 to $44 billion, which would make the Games ""far and away the most expensive ever"".Its budget was later exceeded by the 2014 Winter Olympics in Sochi, which suffered from major cost overruns; the 2014 Winter Olympics costed roughly US$50 billion in private and public funding.
+
+Venues
+By May 2007 the construction of all 31 Beijing-based Olympic Games venues had begun. The Chinese government renovated and constructed six venues outside Beijing, and constructed 59 training facilities. The largest structures built were the Beijing National Stadium, Beijing National Indoor Stadium, Beijing National Aquatics Center, Peking University Gymnasium, Olympic Green Convention Center, Olympic Green, and Beijing Wukesong Culture & Sports Center. Almost 85% of the construction budget for the six main venues was funded by $2.1 billion (RMB¥17.4 billion) in corporate bids and tenders. Investments were expected from corporations seeking ownership rights after the Olympics. Some events were held outside Beijing, namely football in Qinhuangdao, Shanghai, Shenyang, and Tianjin; sailing in Qingdao; and, because of the ""uncertainties of equine diseases and major difficulties in establishing a disease-free zone"", the equestrian events were held in Hong Kong.The showpiece of the 2008 Summer Olympics was the Beijing National Stadium, nicknamed ""The Bird's Nest"" because of its nest-like skeletal structure.  The stadium hosted both the opening and closing ceremonies, as well as the athletics competition. Construction of the venue began on 24 December 2003. The Guangdong Olympic Stadium was originally planned, constructed, and completed in 2001 to help host the Games, but a decision was made to construct a new stadium in Beijing. In 2001, the city held a bidding process to select the best arena design. Several criteria were required of each design, including flexibility for post-Olympics use, a retractable roof, and low maintenance costs. The entry list was narrowed to thirteen final designs. The bird's nest model submitted by architects Jacques Herzog and Pierre de Meuron in collaboration with Li Xinggang of China Architecture Design and Research Group (CADG) was selected as the top design by both a professional panel and by a broader audience during a public exhibition. The selection of the design became official in April 2003. Construction of the stadium was a joint venture among the original designers, project architect Stefan Marbach, artist Ai Weiwei, and a group of CADG architects led by Li Xinggang. Its $423 million cost was funded by the state-owned corporate conglomerate CITIC and the Beijing State-Owned Assets Management Company.The 2008 Beijing Olympics caused traditional Hutong neighborhoods to be cleared to construct modern Olympic stadiums. In an effort to ensure success for the Games, the government invested billions in building new infrastructure, although clearance to tiny, outdated neighborhoods in Beijing called hutongs resulted (Petrun). Jim Yardley, a New York Times reporter interviews Pan Jinyu, a 64-year-old local resident: ""They [the government] don't want foreigners to see this scarred old face."" Feng Shuqin and her husband, Zheng Zhanlin, have lived in their house for 50 years, and the family has owned the property before the Communists took control in 1949. The government, trying to clear the area, has offered them to move with a compensatory sum of US$175,000, but the family insists the land is worth US$1.4 million (Yardley). Michael Meyer, an American who lives in the hutongs, reported that 500,000 residents were relocated from their homes before the Olympics began (Meyer).
+
+Transport
+To prepare for Olympic visitors, Beijing's transportation infrastructure was expanded. Beijing's airport underwent a major renovation with the addition of the new Terminal 3, designed by architect Norman Foster. Within the city itself, Beijing's subway was doubled in capacity and length, with the addition of seven lines and 80 stations to the previously existing four lines and 64 stations. Included in this expansion was a new link connecting to the city's airport. A fleet of thousands of buses, minibuses, and official cars transported spectators, athletes, and officials between venues.In an effort to improve air quality, the city placed restrictions on construction sites and gas stations and limited the use of commercial and passenger vehicles in Beijing. From 20 July through 20 September, passenger vehicle restrictions were placed on alternative days depending on the terminal digit of the car's license plate. It was anticipated that this measure would take 45% of Beijing's 3.3 million cars off the streets. The boosted public transport network was expected to absorb the demand created by these restrictions and the influx of visitors, which was estimated at more than 4 million additional passengers per day.
+
+Marketing
+The 2008 Summer Olympics emblem was known as Dancing Beijing. The emblem combined a traditional Chinese red seal and a representation of the calligraphic character for ""capital"" (京, also the second character of Beijing's Chinese name) with athletic features. The open arms of the calligraphic word symbolized the invitation from China to the world to share in its culture. IOC president Jacques Rogge was rather pleased with the emblem, saying, ""Your new emblem immediately conveys the awesome beauty and power of China which are embodied in your heritage and your people.""The official motto for the 2008 Olympics was ""One World, One Dream"" (同一个世界 同一个梦想). It called upon the whole world to join in the Olympic spirit and build a better future for humanity, and was chosen from over 210,000 entries submitted from around the world. Following the announcement of the motto, the phrase was used by international advocates of Tibetan secession. Banners reading ""One World, One Dream, Free Tibet"" were unfurled from various structures around the globe in the lead up to the Beijing Olympics, such as from the San Francisco Golden Gate Bridge and the Sydney Opera House in Australia.The mascots of Beijing 2008 were the five Fuwa, each of which represented both a color of the Olympic rings and a symbol of Chinese culture.  In 2006, the Beijing Organizing Committee for the Olympic Games released pictograms of 35 Olympic disciplines (however, for some multidiscipline sports such as cycling, a single pictogram was released). This set of sport icons was named the beauty of seal characters, because of each pictogram's likeness to Chinese seal script.
+
+Look of the Games
+Four primary colors were used in the branding of the Games: China Red, Yellow, Lime Green, and Sky Blue, which were used to represent China, sun, land, and water, respectively.
+
+Media coverage
+The 2008 Games were the first to be produced and broadcast entirely in high definition by the host broadcaster. In comparison, American broadcaster NBC broadcast only half of the Turin 2006 Winter Olympics in HD. In their bid for the Olympic Games in 2001, Beijing stated to the Olympic Evaluation Commission that there would be ""no restrictions on media reporting and movement of journalists up to and including the Olympic Games."" However, some media outlets claimed that organizers ultimately failed to live up to this commitment.According to Nielsen Media Research, 4.7 billion viewers worldwide tuned in to some of the television coverage, one-fifth larger than the 3.9 billion who watched the 2004 Olympic Games in Athens.  American broadcaster NBC produced only two hours of online streaming video for the 2006 Winter Games but produced approximately 2,200 hours of coverage for the 2008 Summer Games. CNN reported that, for the first time, ""live online video rights in some markets for the Olympics have been separately negotiated, not part of the overall 'broadcast rights.'"" The new media of the digital economy was said to be growing ""nine times faster than the rest of the advertising market.""The international European Broadcasting Union (EBU) provided live coverage and highlights of all arenas only for certain territories on their website, Eurovisionsports.tv. Many national broadcasters likewise restricted the viewing of online events to their domestic audiences. The General National Copyright Administration of China announced that ""individual (sic) and websites will face fines as high as 100,000 yuan for uploading recordings of Olympic Games video to the internet"", part of an extensive campaign to protect the pertinent intellectual property rights. The Olympic Committee also set up a separate YouTube channel at Beijing 2008.
+
+Theme song
+The theme song of the 2008 Summer Olympics was ""You and Me,"" which was composed by Chen Qigang, the musical director of the opening ceremony. It was performed during the opening ceremony by Chinese singer Liu Huan and British singer Sarah Brightman. The theme song was originally going to be a song called ""So much love, so far away (Tanto amor, tan lejos)"" written by Cuban singer-songwriter Jon Secada and Peruvian singer-songwriter Gian Marco under production from Cuban producer Emilio Estefan Jr. from EMI.
+
+Torch relay
+The design of the 2008 Olympic Torch was based on traditional scrolls and used a traditional Chinese design known as the ""Propitious Clouds"" (祥云). The torch was designed to remain lit in 65 km/h (40 mph) winds, and in rain of up to 50 mm (2 in) per hour.The relay, with the theme ""Journey of Harmony"", was met with protests and demonstrations by pro-Tibet supporters throughout its journey. It lasted 130 days and carried the torch 137,000 km (85,000 mi)—the longest distance of any Olympic torch relay since the tradition began at the 1936 Berlin Games. The torch relay was described as a ""public relations disaster"" for China by USA Today, with protests against China's human rights record, particularly focused on Tibet. The IOC subsequently barred future Olympics organizers from staging international torch relays.The relay began 24 March 2008, in Olympia, Greece. From there, it traveled across Greece to Panathinaiko Stadium in Athens, and then to Beijing, arriving on 31 March. From Beijing, the torch followed a route passing through every continent except Antarctica. The torch visited cities on the Silk Road, symbolizing ancient links between China and the rest of the world. A total of 21,880 torchbearers were selected from around the world by various organizations and entities.The international portion of the relay was problematic. The month-long world tour encountered wide-scale anti-Chinese protests. After trouble in London involving attempts by protesters to put out the flame, the torch was extinguished in Paris the following day. The American leg in San Francisco on 9 April was altered without prior warning to avoid such disturbances, although there were still demonstrations along the original route. The relay was further delayed and simplified after the 2008 Sichuan earthquake hit western China.
+
+The flame was carried to the top of Mount Everest on a 108 km (67 mi) long ""highway"" scaling the Tibetan side of the mountain, built especially for the relay. The $19.7 million blacktop project spanned from Tingri County of Xigazê Prefecture to the Everest Base Camp. In March 2008, China banned mountaineers from climbing its side of Mount Everest, and later persuaded the Nepalese government to close their side as well, officially citing environmental concerns. It also reflected concerns by the Chinese government that Tibet activists may try to disrupt its plans to carry the Olympic torch up the world's tallest peak.The originally proposed route would have taken the torch through Taipei after leaving Vietnam and before heading for Hong Kong. However, the government of Taiwan (then led by the independence-leaning Democratic Progressive Party) objected to this proposal, claiming that this route would make the portion of the relay in Taiwan appear to be part of the torch's domestic journey through China, rather than a leg on the international route. This dispute, as well as Chinese demands that the flag and the national anthem of the Republic of China be banned along the route led the government of Taiwan to reject the proposal that it be part of the relay route. The two sides of the Taiwan Strait subsequently blamed each other for injecting politics into the event.
+
+Calendar
+In the following calendar for the 2008 Summer Olympics, each blue box represents an event competition, such as a qualification round, on that day. The yellow boxes represent days during which medal-awarding finals for a sport were held. Each bullet in these boxes is an event final, the number of bullets per box representing the number of finals that were contested on that day. On the left, the calendar lists each sport with events held during the Games, and at the right how many gold medals were won in that sport. There is a key at the top of the calendar to aid the reader.
+All dates are Beijing Time (UTC+8)
+
+Olympic and world records
+125 Olympic records including 37 world records were set in various events at the Games. In swimming, sixty-five Olympic swimming records including 25 world records were broken due to the use of the LZR Racer, a specialized swimming suit developed by NASA and the Australian Institute of Sport. Only two swimming Olympic records remained intact after the Games.
+
+Games
+Opening ceremony
+The opening ceremony officially began at 8:00 pm China Standard Time (UTC+8) on 8 August 2008 in the Beijing National Stadium. The number 8 is associated with prosperity and confidence in Chinese culture, and here it was a triple eight for the date and one extra for time (close to 08:08:08 pm). The ceremony was co-directed by Chinese filmmaker Zhang Yimou and Chinese choreographer Zhang Jigang and featured a cast of over 15,000 performers. The ceremony lasted over four hours and was reported to have cost over US$100 million to produce. UNGA President Miguel d’Escoto and leaders from 105 countries attended this ceremony.
+
+A rich assembly of ancient Chinese art and culture dominated the ceremony. It opened with the beating of Fou drums for the countdown. Subsequently, a giant scroll was unveiled and became the show's centerpiece. The official song of the 2008 Olympics, titled ""You and Me,"" was performed by Britain's Sarah Brightman and China's Liu Huan, on a large spinning rendition of the globe. On the parade of nations section, the Greek team, which hosted the previous games, enters first in honour of its status as the Olympic birthplace. They were led by judoka Ilias Iliadis. Meanwhile, the Chinese team enters last as the host country, led by NBA's Houston Rockets superstar Yao Ming and earthquake survivor Lin Hao, who was just 9 years old. The last recipient in the Olympic Torch relay, former Chinese gymnast Li Ning ignited the cauldron, after being suspended into the air by wires and completing a lap of the National Stadium at roof height.
+
+The opening ceremony was lauded by spectators and various international presses as ""spectacular"" and ""spellbinding"". Hein Verbruggen, chairman of the IOC Coordination Commission for the XXIX Olympiad, called the ceremony ""a grand, unprecedented success.""
+
+Sports
+The program for the Beijing Games was quite similar to that of the 2004 Summer Olympics held in Athens. There were 28 sports and 302 events at the 2008 Games.  Nine new events were held, including two from the new cycling discipline of BMX. Women competed in the 3,000-meter (9,843 ft) steeplechase for the first time. Open water swimming events for men and women, over the distance of 10 kilometers (6.2 mi), were added to the swimming discipline. Team events (men and women) in table tennis replaced the doubles events. In fencing, the women's team foil and women's team saber replaced men's team foil and women's team épée. Two sports were open only to men, baseball and boxing, while one sport and one discipline were open only to women, softball and synchronized swimming. Equestrian and mixed badminton are the only sports in which men and women compete together, although three events in the Sailing allowed the opportunity for both males and female participants. However, only male participants took part in all three events.The following were the 302 events in 28 sports that were contested at the Games. The number of events contested in each sport is indicated in parentheses (in sports with more than one discipline, as identified by the IOC, these are also specified).
+
+In addition to the official Olympic sports, the Beijing Organizing Committee was given special dispensation by the IOC to run a wushu competition in tandem with the Games. The 2008 Beijing Wushu Tournament saw 128 athletes from 43 countries participate, with medals awarded in 15 separate events; however, these were not to be added to the official medal tally since Wushu was not on the official program of the 2008 Summer Olympics.
+
+Closing ceremony
+The 2008 Summer Olympics Closing Ceremony concluded the Beijing Games on 24 August 2008. It began at 8:00 pm China Standard Time (UTC+8) and took place at the Beijing National Stadium.
+The Ceremony included the handover of the Games from Beijing to London. Guo Jinlong, the Mayor of Beijing handed over the Olympic flag to the Mayor of London Boris Johnson, followed by a performance organized by London Organising Committee of the Olympic and Paralympic Games.  This presentation included performances by guitarist Jimmy Page and recording artist Leona Lewis.  Footballer David Beckham was also featured during London's presentation.
+
+Medal table
+Of the 204 nations that participated in the 2008 Games, 87 earned medals and 54 of those won at least one gold medal, both of these figures setting new records for Olympic Games. There were 117 participating countries that did not win any medals. Athletes from China won the highest number of gold medals of any nation at these Games, with 48, thus making China the seventh nation to rank top in the medal table in the history of the modern Olympics, along with the United States (fifteen times), France (in 1900), Great Britain (in 1908), Germany (in 1936), the Soviet Union (six times), and the Unified Team (in 1992).The United States team won the most medals overall, with 112. Afghanistan, Mauritius, Sudan, Tajikistan and Togo won their first ever Olympic medals. Mongolia (which previously held the record for most medals without a gold) and Panama won their first gold medals. Four members of the water polo team from Serbia won the first medal for their country under its new name, having previously won medals representing Yugoslavia and Serbia and Montenegro.American swimmer Michael Phelps won a total of eight gold medals, more than any other athlete in a single Olympic Games, setting numerous world and Olympic records in the process. Jamaican sprinter Usain Bolt also set records in several different events, completing the 100 m final with a time of 9.69 seconds, beating his own previous world record. Gymnast Nastia Liukin won the all-around gold medal in artistic gymnastics, becoming the third American female to do so, following in the footsteps of Mary Lou Retton in 1984 and Carly Patterson in 2004.These are the top ten nations that won medals in the 2008 Games.
+  Host nation
+
+Podium sweeps
+Participating National Olympic Committees
+All but one of the 205 recognized National Olympic Committees (NOCs) that existed as of 2008  participated in the 2008 Summer Olympics, the exception being Brunei. Three countries participated in the Olympic Games for their first time: the Marshall Islands, Montenegro and Tuvalu.While not a full member recognized by the IOC and thus not allowed to compete formally in the Olympics, the Macau Sports and Olympic Committee sent a delegation to participate in the Wushu Tournament Beijing 2008, being the only unrecognized National Olympic Committee to have taken part in the 2008 Summer Olympics. It also coordinated efforts with the Chinese Olympic Committee to organize the torch relay through Macau.
+The Marshall Islands and Tuvalu gained National Olympic Committee status in 2006 and 2007 respectively, and 2008 was the first Games in which they were eligible to participate. The states of Serbia and Montenegro, which participated at the 2004 Games jointly as Serbia and Montenegro, competed separately for the first time. The Montenegrin Olympic Committee was accepted as a new National Olympic Committee in 2007. Neighboring Kosovo, however, did not participate. After the declaration of independence in Kosovo, the IOC specified requirements that Kosovo needs to meet before being recognized by the IOC; most notably, it has to be recognized as independent by the United Nations. However, it has since been recognised by the IOC in 2014 without fulfilling this criteria and made its debut in the 2016 games.More than 100 sovereigns, heads of state and heads of government as well as 170 Ministers of Sport attended the Beijing Olympic Games.
+
+National participation changes
+Athletes from the Republic of China (Taiwan) competed at the 2008 Games as Chinese Taipei (TPE) under the Chinese Taipei Olympic flag and used the National Banner Song as their official anthem. The participation of Taiwan was briefly in doubt because of disagreements over the name of their team in the Chinese language and concerns about Taiwan marching in the Opening Ceremony next to the special administrative region of Hong Kong. A compromise on the naming was reached, and Taiwan was referred to during the Games as ""Chinese Taipei,"" rather than ""Taipei, China,"" as the mainland China government had proposed. In addition, the Central African Republic was placed between Chinese Taipei and the Special Administrative Regions during the march of nations.Starting in 2005, North Korea and South Korea held meetings to discuss the possibility of sending a united team to the 2008 Olympics. The proposal failed, because of disagreements about how athletes would be chosen; North Korea was demanding a certain percentage representation for its athletes. A subsequent attempt to broker an agreement for the two nations to walk together during the March of Nations failed as well, despite their having done so during the 2000 and 2004 Games.On 24 July 2008, the International Olympic Committee (IOC) banned Iraq from competing in the 2008 Olympic Summer Games because of ""political interference by the government in sports."" The IOC reversed its decision five days later and allowed the nation to compete after a pledge by Iraq to ensure ""the independence of its national Olympics panel"" by instituting fair elections before the end of November. In the meantime, Iraq's Olympic Organization was to be run by ""an interim committee proposed by its national sports federations and approved by the IOC.""
+Brunei Darussalam was due to take part in the 2008 Summer Olympic Games. However, they were disqualified on 8 August, having failed to register either of their two athletes. The IOC spokeswoman Emmanuelle Moreau said in a statement that ""it is a great shame and very sad for the athletes who lose out because of the decision by their team not to register them. The IOC tried up until the last minute, midday Friday 8 August 2008, the day of the official opening, to have them register, but to no avail."" Brunei's Ministry of Culture, Youth and Sports issued a press release stating that their decision not to participate was due to an injury to one of their athletes.Georgia announced on 9 August 2008, that it was considering withdrawing from the Beijing Olympic Games because of the 2008 South Ossetia war, but it went on to compete while the conflict was still ongoing.
+
+Participation of athletes with disabilities
+South African swimmer Natalie du Toit, whose left leg was amputated following a motor scooter accident, qualified to compete at the Beijing Olympics. The five time gold medalist at the Athens Paralympics in 2004 made history by becoming the first amputee to qualify for the Olympic Games since Olivér Halassy in 1936. She was able to compete in the Olympics rather than the Paralympics because she does not use a prosthetic leg while swimming. Polish athlete Natalia Partyka, who was born without a right forearm, competed in Table Tennis in the 2008 Summer Olympics and 2008 Paralympic Games.
+
+Mascots
+The mascots of the 2008 Summer Olympics are the Fuwa, created by Han Meilin (韩美林). The mascots consisted of Beibei, a fish, Jingjing, a panda, Huanhuan, an Olympic flame, Yingying, a Tibetan antelope, and Nini, a sand martin kite. If combined, it would being Beijing Huanying Ni (北京欢迎你) or Beijing Welcomes You, which is a theme (and a song) for welcoming the athletes to Beijing several months before. They were featured in an animated cartoon, 100-episode The Olympic Adventures of Fuwa, launched in 2007, a year before the games.
+
+Concerns and controversies
+A variety of concerns over the Games, or China's hosting of the Games, had been expressed by various entities, including claims that China violated its pledge to allow open media access, various claims of human rights violations, its alleged continuous support of repressive regimes (such as Zimbabwe, Myanmar, Sudan, and North Korea), air pollution in both the city of Beijing and environs, proposed boycotts, warnings of the possibility that the Beijing Olympics could be targeted by terrorist groups, disruption from Tibetan separatist protesters, and religious persecutions.There were also claims that several members of China's women's gymnastics team, including double gold medal winner He Kexin, were too young to compete under the International Gymnastics Federation's rules for Olympic eligibility, but all were exonerated after an official IOC investigation.Collectively, the Beijing Olympics are associated with a variety of problematic topics: the ecological impact, residential displacement due to construction, treatment of migrant workers, the government's political stance on Tibet, etc. In the lead-up to the Olympics, the government allegedly issued guidelines to the local media for their reporting during the Games: most political issues not directly related to the Olympics were to be downplayed; topics such as pro-Tibetan independence and East Turkestan movements were not to be reported on, as were food safety issues such as ""cancer-causing mineral water"". As the 2008 Chinese milk scandal broke in September 2008, there was widespread speculation that China's desire for a perfect Games may have been a factor contributing towards the delayed recall of contaminated infant formula.The 2008 Olympics were hit by a number of doping scandals before and after the Games had commenced. Since seven Russian track and field stars were suspended just before the start of the Games for allegedly tampering with their urine samples, only five of the seven who were due to take part could participate. Eleven Greek weightlifters also failed tests in the run up to the Games and the entire Bulgarian weightlifting team had to withdraw after eleven of their weightlifters also failed tests. A small number of athletes from other nations also failed pre-Games tests.
+
+Legacy
+The 2008 Summer Olympics have been generally accepted by the world's media as a logistical success. Many of the worst fears about the Games failed to materialize: no terrorists struck Beijing; no athlete protested at the podium (though Swedish wrestler Ara Abrahamian tossed his bronze medal in disgust over judging); and the air quality, despite being the worst in Olympics history, was not as bad as many had feared beforehand – due largely to favorable weather patterns.Many in China viewed the Olympics as ""an affirmation of a single nationalistic dream"" and saw protests during the international torch relay as an insult to China. The Games also bolstered domestic support for the Chinese government, and for the policies of the Communist Party, giving rise to concerns that the Olympics would give the state more leverage to suppress political dissent, at least temporarily. Efforts to quell any unrest before and during the Games also contributed to a rapid expansion in the size and political clout of China's internal security forces, and this growth continued through the following years. Reports also indicated that the Olympics boosted the political careers of pro-Beijing politicians in Hong Kong, as many Chinese gold medal winners campaigned on behalf of the pro-Beijing DAB during the 2008 election, although any trend towards greater identification by Hong Kongers with Mainland China appears to have been short-lived.The long-term economic impact of the Games on China and Beijing, in particular, is not yet clear. Some sectors of the economy may have benefited from the influx of tourists. Other sectors such as manufacturing lost revenue because of plant closings related to the government's efforts to improve air quality. Four years after the Games, many of the specially constructed facilities were underused or even deserted. It is generally expected by economists that there will be no lasting effects on Beijing's economy from the Games.One 2009 study found that countries that host the Olympics experience a significant boost in trade, but this is also the case for countries which merely bid to host: ""The benefit, in other words, came from the signal that a country was open for business, not from the spending itself.""Seven years after the 2008 Games, Beijing was awarded the 2022 Winter Olympics. It will thus be the first city to host both the Summer and Winter Games.
+
+See also
+2008 Summer Paralympics
+Olympic Games celebrated in China
+2008 Summer Olympics – Beijing
+2014 Summer Youth Olympics – Nanjing
+2022 Winter Olympics – BeijingList of IOC country codes
+Doping at the Olympic Games – 2008 Beijing
+2022 Winter Olympics
+
+Notes
+References
+External links
+""Beijing 2008"". Olympics.com. International Olympic Committee.
+""2008 Summer Olympics Official Site"". Archived from the original on 12 October 2008. Retrieved 20 June 2013.CS1 maint: bot: original URL status unknown (link)
+Beijing Olympic Sites Four Years Later – What Remains at Modern Day Ruins
+Mallon, Bill (18 January 2019). ""ALL OLYMPIC DOPING POSITIVES – THE COUNT BY GAMES"". OlympStats."
+"ATC code D09 Medicated dressings is a therapeutic subgroup of the Anatomical Therapeutic Chemical Classification System, a system of alphanumeric codes developed by the World Health Organization (WHO) for the classification of drugs and other medical products. Subgroup D09 is part of the anatomical group D Dermatologicals.
+Codes for veterinary use (ATCvet codes) can be created by placing the letter Q in front of the human ATC code: for example, QD09. National issues of the ATC classification may include additional codes not present in this list, which follows the WHO version.
+
+D09A Medicated dressings
+D09AA Medicated dressings with antiinfectives
+D09AA01 Framycetin
+D09AA02 Fusidic acid
+D09AA03 Nitrofural
+D09AA04 Phenylmercuric nitrate
+D09AA05 Benzododecinium
+D09AA06 Triclosan
+D09AA07 Cetylpyridinium
+D09AA08 Aluminium chlorohydrate
+D09AA09 Povidone-iodine
+D09AA10 Clioquinol
+D09AA11 Benzalkonium
+D09AA12 Chlorhexidine
+D09AA13 Iodoform
+
+D09AB Zinc bandages
+D09AB01 Zinc bandage without supplements
+D09AB02 Zinc bandage with supplements
+
+D09AX Soft paraffin dressings
+
+
+== References =="
+"ATC code D Dermatologicals is a section of the Anatomical Therapeutic Chemical Classification System, a system of alphanumeric codes developed by the World Health Organization (WHO) for the classification of drugs and other medical products.
+Codes for veterinary use (ATCvet codes) can be created by placing the letter Q in front of the human ATC code: for example, QD. ATCvet codes without corresponding human ATC codes are cited with the leading Q in the following list.National issues of the ATC classification may include additional codes not present in this list, which follows the WHO version.
+
+
+== References =="
+"ATC code H Systemic hormonal preparations, excluding sex hormones and insulins is a section of the Anatomical Therapeutic Chemical Classification System, a system of alphanumeric codes developed by the World Health Organization (WHO) for the classification of drugs and other medical products.
+Codes for veterinary use (ATCvet codes) can be created by placing the letter Q in front of the human ATC code: for example, QH. National issues of the ATC classification may include additional codes not present in this list, which follows the WHO version.
+
+See also
+Sex hormones are in the ATC group G03.
+Insulins are in the ATC group A10A.
+
+
+== References =="
+"ATC code G Genito-urinary system and sex hormones is a section of the Anatomical Therapeutic Chemical Classification System, a system of alphanumeric codes developed by the World Health Organization (WHO) for the classification of drugs and other medical products.
+Codes for veterinary use (ATCvet codes) can be created by placing the letter Q in front of the human ATC code: for example, QG. ATCvet codes without corresponding human ATC codes are cited with the leading Q in the following list.National issues of the ATC classification may include additional codes not present in this list, which follows the WHO version.
+
+
+== References =="
+"ATC code J Antiinfectives for systemic use is a section of the Anatomical Therapeutic Chemical Classification System, a system of alphanumeric codes developed by the World Health Organization (WHO) for the classification of drugs and other medical products.
+Codes for veterinary use (ATCvet codes) can be created by placing the letter Q in front of the human ATC code: for example, QJ. ATCvet codes without corresponding human ATC codes are cited with the leading Q in the following list.National issues of the ATC classification may include additional codes not present in this list, which follows the WHO version.
+
+See also
+Immune sera, immunoglobulins and vaccines for veterinary use are in the ATCvet group QI.
+
+
+== References =="
+"ATC code M Musculo-skeletal system is a section of the Anatomical Therapeutic Chemical Classification System, a system of alphanumeric codes developed by the World Health Organization (WHO) for the classification of drugs and other medical products.
+Codes for veterinary use (ATCvet codes) can be created by placing the letter Q in front of the human ATC code: for example, QM. National issues of the ATC classification may include additional codes not present in this list, which follows the WHO version.
+
+
+== References =="
+"ATC code L Antineoplastic and immunomodulating agents is a section of the Anatomical Therapeutic Chemical Classification System, a system of alphanumeric codes developed by the World Health Organization (WHO) for the classification of drugs and other medical products.
+Codes for veterinary use (ATCvet codes) can be created by placing the letter Q in front of the human ATC code: for example, QL. National issues of the ATC classification may include additional codes not present in this list, which follows the WHO version.
+
+
+== References =="
+"ATC code N Nervous system is a section of the Anatomical Therapeutic Chemical Classification System, a system of alphanumeric codes developed by the World Health Organization (WHO) for the classification of drugs and other medical products.
+Codes for veterinary use (ATCvet codes) can be created by placing the letter Q in front of the human ATC code: for example, QN. ATCvet codes without corresponding human ATC codes are cited with the leading Q in the following list.National issues of the ATC classification may include additional codes not present in this list, which follows the WHO version.
+
+
+== References =="
+"ATC code R Respiratory system is a section of the Anatomical Therapeutic Chemical Classification System, a system of alphanumeric codes developed by the World Health Organization (WHO) for the classification of drugs and other medical products.
+Codes for veterinary use (ATCvet codes) can be created by placing the letter Q in front of the human ATC code: for example, QR. National issues of the ATC classification may include additional codes not present in this list, which follows the WHO version.
+
+
+== References =="
+"ATC code P Antiparasitic products, insecticides and repellents is a section of the Anatomical Therapeutic Chemical Classification System, a system of alphanumeric codes developed by the World Health Organization (WHO) for the classification of drugs and other medical products.National issues of the ATC classification may include additional codes not present in this list, which follows the WHO version.
+
+
+== References =="
+"ATC code S Sensory organs is a section of the Anatomical Therapeutic Chemical Classification System, a system of alphanumeric codes developed by the World Health Organization (WHO) for the classification of drugs and other medical products.
+Codes for veterinary use (ATCvet codes) can be created by placing the letter Q in front of the human ATC code: for example, QS. National issues of the ATC classification may include additional codes not present in this list, which follows the WHO version.
+
+
+== References =="
+"ATC code V Various is a section of the Anatomical Therapeutic Chemical Classification System, a system of alphanumeric codes developed by the World Health Organization (WHO) for the classification of drugs and other medical products.
+Codes for veterinary use (ATCvet codes) can be created by placing the letter Q in front of the human ATC code: for example, QV. National issues of the ATC classification may include additional codes not present in this list, which follows the WHO version.
+
+
+== References =="
+"ATC code S01 Ophthalmologicals is a therapeutic subgroup of the Anatomical Therapeutic Chemical Classification System, a system of alphanumeric codes developed by the World Health Organization (WHO) for the classification of drugs and other medical products. Subgroup S01 is part of the anatomical group S Sensory organs.
+Codes for veterinary use (ATCvet codes) can be created by placing the letter Q in front of the human ATC code: for example, QS01. ATCvet codes without corresponding human ATC codes are cited with the leading Q in the following list.National issues of the ATC classification may include additional codes not present in this list, which follows the WHO version.
+
+S01A Anti-infectives
+S01AA Antibiotics
+S01AA01 Chloramphenicol
+S01AA02 Chlortetracycline
+S01AA03 Neomycin
+S01AA04 Oxytetracycline
+S01AA05 Tyrothricin
+S01AA07 Framycetin
+S01AA09 Tetracycline
+S01AA10 Natamycin
+S01AA11 Gentamicin
+S01AA12 Tobramycin
+S01AA13 Fusidic acid
+S01AA14 Benzylpenicillin
+S01AA15 Dihydrostreptomycin
+S01AA16 Rifamycin
+S01AA17 Erythromycin
+S01AA18 Polymyxin B
+S01AA19 Ampicillin
+S01AA20 Antibiotics in combination with other drugs
+S01AA21 Amikacin
+S01AA22 Micronomicin
+S01AA23 Netilmicin
+S01AA24 Kanamycin
+S01AA25 Azidamfenicol
+S01AA26 Azithromycin
+S01AA27 Cefuroxime
+S01AA28 Vancomycin
+S01AA30 Combinations of different antibiotics
+QS01AA90 Cloxacillin
+
+S01AB Sulfonamides
+S01AB01 Sulfamethizole
+S01AB02 Sulfafurazole
+S01AB03 Sulfadicramide
+S01AB04 Sulfacetamide
+S01AB05 Sulfafenazol
+
+S01AD Antivirals
+S01AD01 Idoxuridine
+S01AD02 Trifluridine
+S01AD03 Aciclovir
+S01AD05 Interferon
+S01AD06 Vidarabine
+S01AD07 Famciclovir
+S01AD08 Fomivirsen
+S01AD09 Ganciclovir
+
+S01AE Fluoroquinolones
+S01AE01 Ofloxacin
+S01AE02 Norfloxacin
+S01AE03 Ciprofloxacin
+S01AE04 Lomefloxacin
+S01AE05 Levofloxacin
+S01AE06 Gatifloxacin
+S01AE07 Moxifloxacin
+S01AE08 Besifloxacin
+
+S01AX Other anti-infectives
+S01AX01 Mercury compounds
+S01AX02 Silver compounds
+S01AX03 Zinc compounds
+S01AX04 Nitrofural
+S01AX05 Bibrocathol
+S01AX06 Resorcinol
+S01AX07 Sodium borate
+S01AX08 Hexamidine
+S01AX09 Chlorhexidine
+S01AX10 Sodium propionate
+S01AX14 Dibrompropamidine
+S01AX15 Propamidine
+S01AX16 Picloxydine
+S01AX18 Povidone-iodine
+
+S01B Anti-inflammatory agents
+S01BA Corticosteroids, plain
+S01BA01 Dexamethasone
+S01BA02 Hydrocortisone
+S01BA03 Cortisone
+S01BA04 Prednisolone
+S01BA05 Triamcinolone
+S01BA06 Betamethasone
+S01BA07 Fluorometholone
+S01BA08 Medrysone
+S01BA09 Clobetasone
+S01BA10 Alclometasone
+S01BA11 Desonide
+S01BA12 Formocortal
+S01BA13 Rimexolone
+S01BA14 Loteprednol
+S01BA15 Fluocinolone acetonide
+
+S01BB Corticosteroids and mydriatics in combination
+S01BB01 Hydrocortisone and mydriatics
+S01BB02 Prednisolone and mydriatics
+S01BB03 Fluorometholone and mydriatics
+S01BB04 Betamethasone and mydriatics
+
+S01BC Anti-inflammatory agents, non-steroids
+S01BC01 Indometacin
+S01BC02 Oxyphenbutazone
+S01BC03 Diclofenac
+S01BC04 Flurbiprofen
+S01BC05 Ketorolac
+S01BC06 Piroxicam
+S01BC07 Bendazac
+S01BC08 Salicylic acid
+S01BC09 Pranoprofen
+S01BC10 Nepafenac
+S01BC11 Bromfenac
+
+S01C Anti-inflammatory agents and anti-infectives in combination
+S01CA Corticosteroids and anti-infectives in combination
+S01CA01 Dexamethasone and antiinfectives
+S01CA02 Prednisolone and antiinfectives
+S01CA03 Hydrocortisone and antiinfectives
+S01CA04 Fluocortolone and antiinfectives
+S01CA05 Betamethasone and antiinfectives
+S01CA06 Fludrocortisone and antiinfectives
+S01CA07 Fluorometholone and antiinfectives
+S01CA08 Methylprednisolone and antiinfectives
+S01CA09 Chloroprednisone and antiinfectives
+S01CA10 Fluocinolone acetonide and antiinfectives
+S01CA11 Clobetasone and antiinfectives
+
+S01CB Corticosteroids/anti-infectives/mydriatics in combination
+S01CB01 Dexamethasone
+S01CB02 Prednisolone
+S01CB03 Hydrocortisone
+S01CB04 Betamethasone
+S01CB05 Fluorometholone
+
+S01CC Anti-inflammatory agents, non-steroids and anti-infectives in combination
+S01CC01 Diclofenac and antiinfectives
+S01CC02 Indometacin and antiinfectives
+
+S01E Antiglaucoma preparations and miotics
+S01EA Sympathomimetics in glaucoma therapy
+S01EA01 Epinephrine
+S01EA02 Dipivefrine
+S01EA03 Apraclonidine
+S01EA04 Clonidine
+S01EA05 Brimonidine
+S01EA51 Epinephrine, combinations
+
+S01EB Parasympathomimetics
+S01EB01 Pilocarpine
+S01EB02 Carbachol
+S01EB03 Ecothiopate
+S01EB04 Demecarium
+S01EB05 Physostigmine
+S01EB06 Neostigmine
+S01EB07 Fluostigmine
+S01EB08 Aceclidine
+S01EB09 Acetylcholine
+S01EB10 Paraoxon
+S01EB51 Pilocarpine, combinations
+S01EB58 Aceclidine, combinations
+
+S01EC Carbonic anhydrase inhibitors
+S01EC01 Acetazolamide
+S01EC02 Diclofenamide
+S01EC03 Dorzolamide
+S01EC04 Brinzolamide
+S01EC05 Methazolamide
+S01EC54 Brinzolamide, combinations
+
+S01ED Beta blocking agents
+S01ED01 Timolol
+S01ED02 Betaxolol
+S01ED03 Levobunolol
+S01ED04 Metipranolol
+S01ED05 Carteolol
+S01ED06 Befunolol
+S01ED51 Timolol, combinations
+S01ED52 Betaxolol, combinations
+S01ED54 Metipranolol, combinations
+S01ED55 Carteolol, combinations
+
+S01EE Prostaglandin analogues
+S01EE01 Latanoprost
+S01EE02 Unoprostone
+S01EE03 Bimatoprost
+S01EE04 Travoprost
+S01EE05 Tafluprost
+S01EE06 Latanoprostene bunod
+S01EE51 Latanoprost and netarsudil
+
+S01EX Other antiglaucoma preparations
+S01EX01 Guanethidine
+S01EX02 Dapiprazole
+S01EX05 Netarsudil
+S01EX06 Omidenepag
+
+S01F Mydriatics and cycloplegics
+S01FA Anticholinergics
+S01FA01 Atropine
+S01FA02 Scopolamine
+S01FA03 Methylscopolamine
+S01FA04 Cyclopentolate
+S01FA05 Homatropine
+S01FA06 Tropicamide
+S01FA54 Cyclopentolate, combinations
+S01FA56 Tropicamide, combinations
+
+S01FB Sympathomimetics excluding antiglaucoma preparations
+S01FB01 Phenylephrine
+S01FB02 Ephedrine
+S01FB03 Ibopamine
+S01FB51 Phenylephrine and ketorolac
+QS01FB90 Oxedrine
+QS01FB99 Sympathomimetics, combinations
+
+S01G Decongestants and antiallergics
+S01GA Sympathomimetics used as decongestants
+S01GA01 Naphazoline
+S01GA02 Tetryzoline
+S01GA03 Xylometazoline
+S01GA04 Oxymetazoline
+S01GA05 Phenylephrine
+S01GA06 Oxedrine
+S01GA07 Brimonidine
+S01GA51 Naphazoline, combinations
+S01GA52 Tetryzoline, combinations
+S01GA53 Xylometazoline, combinations
+S01GA55 Phenylephrine, combinations
+S01GA56 Oxedrine, combinations
+
+S01GX Other antiallergics
+S01GX01 Cromoglicic acid
+S01GX02 Levocabastine
+S01GX03 Spaglumic acid
+S01GX04 Nedocromil
+S01GX05 Lodoxamide
+S01GX06 Emedastine
+S01GX07 Azelastine
+S01GX08 Ketotifen
+S01GX09 Olopatadine
+S01GX10 Epinastine
+S01GX11 Alcaftadine
+S01GX51 Cromoglicic acid, combinations
+
+S01H Local anesthetics
+S01HA Local anesthetics
+S01HA01 Cocaine
+S01HA02 Oxybuprocaine
+S01HA03 Tetracaine
+S01HA04 Proxymetacaine
+S01HA05 Procaine
+S01HA06 Cinchocaine
+S01HA07 Lidocaine
+S01HA30 Combinations
+
+S01J Diagnostic agents
+S01JA Colouring agents
+S01JA01 Fluorescein
+S01JA02 Rose bengal sodium
+S01JA51 Fluorescein, combinations
+
+S01JX Other ophthalmological diagnostic agents
+S01K Surgical aids
+S01KA Viscoelastic substances
+S01KA01 Hyaluronic acid
+S01KA02 Hypromellose
+S01KA51 Hyaluronic acid, combinations
+
+S01KX Other surgical aids
+S01KX01 Chymotrypsin
+
+S01L Ocular vascular disorder agents
+S01LA Antineovascularisation agents
+S01LA01 Verteporfin
+S01LA02 Anecortave
+S01LA03 Pegaptanib
+S01LA04 Ranibizumab
+S01LA05 Aflibercept
+S01LA06 Brolucizumab
+S01LA07 Abicipar pegol
+
+S01X Other ophthalmologicals
+S01XA Other ophthalmologicals
+S01XA01 Guaiazulene
+S01XA02 Retinol
+S01XA03 Sodium chloride, hypertonic
+S01XA04 Potassium iodide
+S01XA05 Sodium edetate
+S01XA06 Ethylmorphine
+S01XA07 Alum
+S01XA08 Acetylcysteine
+S01XA09 Iodoheparinate
+S01XA10 Inosine
+S01XA11 Nandrolone
+S01XA12 Dexpanthenol
+S01XA13 Alteplase
+S01XA14 Heparin
+S01XA15 Ascorbic acid
+S01XA18 Ciclosporin
+S01XA19 Limbal stem cells, autologous
+S01XA20 Artificial tears and other indifferent preparations
+S01XA21 Mercaptamine
+S01XA22 Ocriplasmin
+S01XA23 Sirolimus
+S01XA24 Cenegermin
+S01XA25 Lifitegrast
+S01XA26 Riboflavin
+S01XA27 Voretigene neparvovec
+QS01XA91 Pirenoxin
+
+
+== References =="
+"ATCvet code QI Immunologicals is a section of the Anatomical Therapeutic Chemical Classification System for veterinary medicinal products, a system of alphanumeric codes developed by the World Health Organization (WHO) for the classification of drugs and other medical products for veterinary use.National issues of the ATC classification may include additional codes not present in this list, which follows the WHO version.
+
+See also
+Immune sera and immunoglobulins for human use are in the ATC group J06.
+Vaccines for human use are in the ATC group J07.
+
+
+== References =="
+"Abediterol (INN; development codes AZD-0548 and LAS 100977) is a once-daily experimental drug candidate for the treatment of asthma and chronic obstructive pulmonary disease (COPD). It is currently under development by the Spanish pharmaceutical company Almirall and is in Phase II clinical trials.It acts as a dual β2 adrenergic agonist and muscarinic antagonist and is classified as an ultra-long-acting β2 agonist (ultra-LABA).Its coformulation with mometasone furoate is also in Phase II clinical trials.
+
+
+== References =="
+"Acebutolol, sold under the brand names Sectral among others, is a beta blocker for the treatment of hypertension and arrhythmias. Acebutolol is a cardioselective beta-1 blocker and has intrinsic sympathetic activity. It is commonly used in the treatment of angina. 
+It was patented in 1967 and approved for medical use in 1973.
+
+Medical uses
+Hypertension
+Ventricular and atrial cardiac arrhythmia
+Acute myocardial infarction in high-risk patients
+Smith–Magenis syndrome
+
+Contraindications
+Stable or unstable angina (due to its partial agonist or ISA activity)
+
+Side effects
+The development of anti-nuclear antibodies (ANA) has been found in 10 to 30% of patients under treatment with acebutolol. A systemic disease with arthralgic pain and myalgias has been observed in 1%. A lupus erythematosus-like syndrome with skin rash and multiforme organ involvement is even less frequent. The incidence of both ANA and symptomatic disease under acebutolol is higher than under propranolol. Female patients are more likely to develop these symptoms than male patients. Some few cases of hepatotoxicity with increased liver enzymes (ALT, AST) have been seen. Altogether, 5 to 6% of all patients treated have to discontinue acebutolol due to intolerable side effects. When possible, the treatment should be discontinued gradually in order to avoid a withdrawal syndrome with increased frequency of angina and even precipitation of myocardial infarction.
+
+Pharmacology
+Acebutolol is a cardioselective beta-1 blocker which also considered a partial agonist due to its intrinsic sympathomimetic activity (ISA). This means it provides low-grade beta stimulation at rest but acting as typical beta-blockers when sympathetic activity is high. Among other drugs in the beta-blocker class, Acebutolol will provide beta-blockade effects to a lesser extent. Due to its cardioselectivity, Acebutolol is more suitable than non-cardioselective beta-blockers, in a patient with asthma or chronic obstructive pulmonary disease (COPD) who needs treatment with a beta-blocker. This cardio-specificity will minimize the anti-hypertensive effects as seen with non-specific beta blockers such as Propanalol and Nadolol.  (For these reasons, it may be a beta-blocker of choice in inclusion in Polypill strategies).  In doses lower than 800 mg daily its constricting effects on the bronchial system and smooth muscle vessels are only 10% to 30% of those observed under propranolol treatment, but there is experimental evidence that the cardioselective properties diminish at doses of 800 mg/day or more.
+The drug has lipophilic properties and therefore crosses the blood–brain barrier. Acebutolol has no negative impact on serum lipids (cholesterol and triglycerides). No HDL decrease has been observed. In this regard, it is unlike many other beta-blockers which have this unfavourable property.
+The drug works in hypertensive patients with high, normal, or low renin plasma concentrations, although acebutolol may be more efficient in patients with high or normal renin plasma concentrations. In clinically relevant concentrations, a membrane-stabilizing effect does not appear to play an important role.
+
+Pharmacokinetics
+Acebutolol is well absorbed from the GI tract, but undergoes substantial first-pass-metabolization, leading to a bioavailability of only 35% to 50%. Peak plasma levels of acebutolol are reached within 2 to 2.5 hours after oral dosing. Peak levels of the main active metabolite, diacetolol, are reached after 4 hours. Acebutolol has a half-life of 3 to 4 hours, and diacetolol a half-life of 8 to 13 hours.
+Acebutolol undergoes extensive hepatic metabolization resulting in the desbutyl amine acetolol which is readily converted into diacetolol. Diacetolol is as active as acebutolol (equipotency) and appears to have the same pharmacologic profile. Geriatric patients tend to have higher peak plasma levels of both acebutolol and diacetolol and a slightly prolonged excretion. Excretion is substantially prolonged in patients with renal impairment, and so a dose reduction may be needed. Liver cirrhosis does not seem to alter the pharmacokinetic profile of the parent drug and metabolite.
+
+References
+External links
+AHFS Database"
+"Aceclidine (Glaucostat, Glaunorm, Glaudin) is a parasympathomimetic miotic agent used in the treatment of narrow angle glaucoma. It decreases intraocular pressure.
+
+Adverse effects
+Side effects of aceclidine include increased salivation and bradycardia (in excessive doses).
+
+Mechanism of action
+Aceclidine acts as a muscarinic acetylcholine receptor agonist.
+
+See also
+Talsaclidine (drug with a similar structure)
+Muscarine
+
+
+== References =="
+"Abanoquil (INN) is an α1-adrenergic receptor antagonist.
+
+See also
+Alpha blocker
+
+
+== References =="
+"Acetazolamide, sold under the trade name Diamox among others, is a medication used to treat glaucoma, epilepsy, altitude sickness, periodic paralysis, idiopathic intracranial hypertension (raised brain pressure of unclear cause), urine alkalinazation, and heart failure. It may be used long term for the treatment of open angle glaucoma and short term for acute angle closure glaucoma until surgery can be carried out. It is taken by mouth or injection into a vein. Acetazolamide is a first generation Carbonic Anhydrase Inhibitor and it decreases the ocular fluid and osmolality in the eye to decrease intraocular pressure. 
+Common side effects include numbness, ringing in the ears, loss of appetite, vomiting, and sleepiness. It is not recommended in those with significant kidney problems, liver problems, or who are allergic to sulfonamides. Acetazolamide is in the diuretic and carbonic anhydrase inhibitor families of medication. It works by decreasing the formation of hydrogen ions and bicarbonate from carbon dioxide and water.Acetazolamide came into medical use in 1952. It is on the World Health Organization's List of Essential Medicines. Acetazolamide is available as a generic medication.
+
+Medical uses
+It is used in the treatment of glaucoma, drug-induced edema, heart failure-induced edema, epilepsy and in reducing intraocular pressure after surgery. It has also been used in the treatment of altitude sickness, Ménière's disease, increased intracranial pressure and neuromuscular disorders.In epilepsy, the main use of acetazolamide is in menstrual-related epilepsy and as an add on to other treatments in refractory epilepsy. Though various websites on the internet report that acetazolamide can be used to treat dural ectasia in individuals with Marfan Syndrome, the only supporting evidence for this assertion exists from a small study of 14 patients which was not peer-reviewed or submitted for publication. Several published cases of intracranial hypotension related to Marfan syndrome would warrant caution in using acetazolamide in these patients unless there is a clear indication, as it could lower intracranial pressure further.   A 2012 review and meta-analysis found that there was ""limited supporting evidence"" but that acetazolamide ""may be considered"" for the treatment of central (as opposed to obstructive) sleep apnea.It has also been used to prevent methotrexate-induced kidney damage by alkalinizing the urine, hence speeding up methotrexate excretion by increasing its solubility in  urine. There is some evidence to support its use to prevent hemiplegic migraine.
+
+Open-Angle Glaucoma
+Acetazolamide is used in the treatment of open-angle glaucoma. The carbonic anhydrase inhibitor is able to decrease ocular fluid and osmolality of the fluid in the humor of the eye and decrease intraocular pressure in the eye. The medication comes in the form of an oral tablet used for this indication.
+
+High altitude sickness
+Acetazolamide is also used for the treatment of acute mountain sickness. In the prevention or treatment of mountain sickness, acetazolamide forces the kidneys to excrete bicarbonate, the conjugate base of carbonic acid. Increasing the amount of bicarbonate excreted in the urine causes the blood to become more acidic. Because the body equates acidity of the blood to its CO2 concentration, artificially acidifying the blood fools the body into thinking it has an excess of CO2, and this misperception causes the body to excrete this perceived excess CO2 by deeper and faster breathing, which in turn increases the amount of oxygen in the blood. Acetazolamide is not an immediate cure for acute mountain sickness; rather, it speeds up (or, when taking before traveling, forces the body to early start) part of the acclimatization process which in turn helps to relieve symptoms. Acetazolamide is still effective if started early in the course of mountain sickness. As prevention, it is started one day before travel to altitude and continued for the first 2 days at altitude.
+
+Pregnancy and lactation
+Acetazolamide is pregnancy category B3 in Australia, which means that studies in rats, mice and rabbits in which acetazolamide was given intravenously or orally caused an increased risk of fetal malformations, including defects of the limbs. Despite this, there is insufficient evidence from studies in humans to either support or discount this evidence.Limited data are available on the effects of nursing mothers taking acetazolamide. Therapeutic doses create low levels in breast milk and are not expected to cause problems in infants.
+
+Side effects
+Common adverse effects of acetazolamide include the following: paraesthesia, fatigue, drowsiness, depression, decreased libido, bitter or metallic taste, nausea, vomiting, abdominal cramps, diarrhea, black feces, polyuria, kidney stones, metabolic acidosis and electrolyte changes (hypokalemia, hyponatremia). Whereas less common adverse effects include Stevens–Johnson syndrome, anaphylaxis and blood dyscrasias.
+
+Contraindications
+Contraindications include:
+Hyperchloremic acidosis
+Hypokalemia (low blood potassium)
+Hyponatremia (low blood sodium)
+Adrenal insufficiency
+Impaired kidney function
+Hypersensitivity to acetazolamide or other sulfonamides.
+Marked liver disease or impairment of liver function, including cirrhosis because of the risk of development of hepatic encephalopathy. Acetazolamide decreases ammonia clearance.
+
+Interactions
+It is possible that it might interact with:
+Amphetamines, because it increases the pH of the renal tubular urine, hence reducing the clearance of amphetamines.
+Other carbonic anhydrase inhibitors — potential for additive inhibitory effects on carbonic anhydrase and hence potential for toxicity.
+Ciclosporin, may increase plasma levels of ciclosporin.
+Antifolates such as trimethoprim, methotrexate, pemetrexed and raltitrexed.
+Hypoglycemics, acetazolamide can both increase or decrease blood glucose levels.
+Lithium, increases excretion, hence reducing therapeutic effect.
+Methenamine compounds, reduces the urinary excretion of methenamines.
+Phenytoin, reduces phenytoin excretion, hence increasing the potential for toxicity.
+Primidone, reduces plasma levels of primidone. Hence reducing anticonvulsant effect.
+Quinidine, reduces urinary excretion of quinidine, hence increasing the potential for toxicity.
+Salicylates, potential for severe toxicity.
+Sodium bicarbonate, potential for kidney stone formation.
+Anticoagulants, cardiac glycosides, may have their effects potentiated by acetazolamide.
+
+Mechanism of action
+Acetazolamide is a carbonic anhydrase inhibitor, hence causing the accumulation of carbonic acid. Carbonic anhydrase is an enzyme found in red blood cells and many other tissues that catalyses the following reaction:
+H2CO3 ⇌ H2O + CO2hence lowering blood pH, by means of the following reaction that carbonic acid undergoes:
+H2CO3 ⇌ HCO3− + H+which has a pKa of 6.3.The mechanism of diuresis involves the proximal tubule of the kidney. The enzyme carbonic anhydrase is found here, allowing the reabsorption of bicarbonate, sodium, and chloride. By inhibiting this enzyme, these ions are excreted, along with excess water, lowering blood pressure, intracranial pressure, and intraocular pressure. A general side effect of carbonic anhydrase inhibitors is loss of potassium due to this function. By excreting bicarbonate, the blood becomes acidic, causing compensatory hyperventilation with deep respiration (Kussmaul respiration), increasing levels of oxygen and decreasing levels of carbon dioxide in the blood.In the eye this results in a reduction in aqueous humour.Bicarbonate (HCO3−) has a pKa of 10.3 with carbonate (CO32−), far further from physiologic pH (7.35–7.45), and so it is more likely to accept a proton than to donate one, but it is also far less likely for it to do either, thus bicarbonate will be the major species at physiological pH.
+Under normal conditions in the proximal convoluted tubule of the kidney, most of the carbonic acid (H2CO3) produced intracellularly by the action of carbonic anhydrase quickly dissociates in the cell to bicarbonate (HCO3−) and an H+ ion (a proton), as previously mentioned. The bicarbonate (HCO3−) exits at the basal portion of the cell via sodium (Na+) symport and chloride (Cl−) antiport and re-enters circulation, where it may accept a proton if blood pH decreases, thus acting as a weak, basic buffer. The remaining H+ left over from the intracellular production of carbonic acid (H2CO3) exits the apical (urinary lumen) portion of the cell by Na+ antiport, acidifying the urine. There, it may join with another bicarbonate (HCO3−) that dissociated from its H+ in the lumen of the urinary space only after exiting the proximal convoluted kidney cells/glomerulus as carbonic acid (H2CO3) because bicarbonate (HCO3−) itself can not diffuse across the cell membrane in its polar state. This will replenish carbonic acid (H2CO3) so that it then may be reabsorbed into the cell as itself or CO2 and H2O (produced via a luminal carbonic anhydrase). As a result of this whole process, there is a greater net balance of H+ in the urinary lumen than bicarbonate (HCO3−), and so this space is more acidic than physiologic pH. Thus, there is an increased likelihood that any bicarbonate (HCO3−) that was left over in the lumen diffuses back into the cell as carbonic acid, CO2, or H2O.
+In short, under normal conditions, the net effect of carbonic anhydrase in the urinary lumen and cells of the proximal convoluted tubule is to acidify the urine and transport bicarbonate (HCO3−) into the body. Another effect is excretion of Cl− as it is needed to maintain electroneutrality in the lumen, as well as the reabsorption of Na+ into the body.
+Thus, by disrupting this process with acetazolamide, urinary Na+ and bicarbonate (HCO3−) are increased, and urinary H+ and Cl− are decreased. Inversely, serum Na+ and bicarbonate (HCO3−) are decreased, and serum H+ and Cl− are increased. H2O generally follows sodium, and so this is how the clinical diuretic effect is achieved, which reduces blood volume and thus preload on the heart to improve contractility and reduce blood pressure, or achieve other desired clinical effects of reduced blood volume such as reducing edema or intracranial pressure.
+
+History
+An early description of this compound (as 2-acetylamino-1,3,4-thiadiazole-5-sulfonamide) and its synthesis appears in U.S. Patent 2554816.
+
+References
+External links
+""Acetazolamide"". Drug Information Portal. U.S. National Library of Medicine."
+"Acetylcholinesterase inhibitors (AChEIs) also often called cholinesterase inhibitors, inhibit the enzyme acetylcholinesterase from breaking down the neurotransmitter acetylcholine into choline and acetate, thereby increasing both the level and duration of action of acetylcholine in the central nervous system, autonomic ganglia and neuromuscular junctions, which are rich in acetylcholine receptors. Acetylcholinesterase inhibitors are one of two types of cholinesterase inhibitors; the other being butyryl-cholinesterase inhibitors.Acetylcholinesterase is the primary member of the cholinesterase enzyme family.Acetylcholinesterase inhibitors are classified as reversible, irreversible, or quasi-irreversible (also called pseudo-irreversible).
+
+Mechanism of action
+Organophosphates
+Organophosphates like TEPP and sarin inhibit cholinesterases, enzymes that hydrolyze the neurotransmitter acetylcholine.
+The active centre of cholinesterases feature two important sites, namely the anionic site and the esteratic site. After the binding of acetylcholine to the anionic site of the cholinesterase, the acetyl group of acetylcholine can bind to the esteratic site. Important amino acid residues in the esteratic site are a glutamate, a histidine, and a serine. These residues mediate the hydrolysis of the acetylcholine. 
+
+At the esteratic site the acetylcholine is cleaved, which results in a free choline moiety and an acetylated cholinesterase. This acetylated state requires hydrolysis to regenerate itself.Inhibitors like TEPP modify the serine residue in the esteratic site of the cholinesterase. 
+
+This phosphorylation inhibits the binding of the acetyl group of the acetylcholine to the esteratic site of the cholinesterase. Because the acetyl group can’t bind the cholinesterase, the acetylcholine can’t be cleaved. Therefore the acetylcholine will remain intact and will accumulate in the synapses. This results in continuous activation of acetylcholine receptors, which leads to the acute symptoms of TEPP poisoning. The phosphorylation of cholinesterase by TEPP (or any other organophosphate) is irreversible. This makes the inhibition of the cholinesterase permanent.The cholinesterase gets irreversible phosphorylated according to the following reaction scheme
+
+  
+    
+      
+        
+          E
+          +
+          PX
+          
+            
+              
+                
+                  
+                    
+                      ↽
+                    
+                    
+                    
+                    
+                      −
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                      −
+                    
+                    
+                    
+                    
+                      ⇀
+                    
+                  
+                
+              
+            
+          
+          E
+          
+            −
+          
+          PX
+          
+            
+              →
+              
+                
+                  k
+                  3
+                
+              
+            
+          
+          EP
+          +
+          X
+        
+      
+    
+    {\displaystyle {\ce {E + PX <=> E-PX ->[k_3] EP + X}}}
+  
+In this reaction scheme the E indicates the cholinesterase, PX the TEPP molecule, E–PX the reversible phosphorylated cholinesterase, k3 the reaction rate of the second step, EP the phosphorylated cholinesterase and X the leaving group of the TEPP.
+The irreversible phosphorylation of the cholinesterase occurs in two steps. In the first step the cholinesterase gets reversibly phosphorylated. This reaction is very fast. Then the second step takes place. The cholinesterase forms a very stable complex with TEPP, in which TEPP is covalently bound to the cholinesterase. This is a slow reaction. But after this step the cholinesterase is irreversibly inhibited.The time dependent irreversible inhibition of the cholinesterase can be described by the following equation.
+
+  
+    
+      
+        ln
+        ⁡
+        
+          
+            E
+            
+              E
+              
+                0
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                k
+                
+                  3
+                
+              
+              t
+            
+            
+              1
+              +
+              
+                
+                  
+                    K
+                    
+                      I
+                    
+                  
+                  I
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \ln {\frac {E}{E_{0}}}={\frac {k_{3}t}{1+{\frac {K_{I}}{I}}}}}
+  In this formula, E is the remaining enzyme activity, E0 is the initial enzyme activity, t is the time interval after mixing of the cholinesterase and the TEPP, KI is the dissociation constant for cholinesterase-TEPP complex (E–PX) and I is the TEPP concentration.
+The reaction mechanism and the formula above are both also compatible for other organophosphates. The process occurs in the same way.
+Furthermore, certain organophosphates can cause OPIDN, organophosphate-induced delayed polyneuropathy. This is a disease, which is characterized by degeneration of axons in the peripheral and central nervous system. This disease will show a few weeks after contamination with the organophosphate. It is believed that the neuropathy target esterase (NTE) is affected by the organophosphate which induces the disease. However, there are no references found, which indicate that TEPP is one of the organophosphates that can cause OPIDN.
