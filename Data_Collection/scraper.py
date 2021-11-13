@@ -43,5 +43,3 @@ def wiki_scrape(topic_name, verbose=True):
     print('Wikipedia pages scraped:', len(sources))
     
     return sources
-
-#data=wiki_scrape('Heart Diseases')
