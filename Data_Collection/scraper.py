@@ -12,14 +12,12 @@ def wiki_scrape(topic_name, verbose=True):
                         'categories': list(page.categories.keys())}
         except:
             return None
-
     wiki_api = wikipediaapi.Wikipedia(language='en',
         extract_format=wikipediaapi.ExtractFormat.WIKI)
     page_name = wiki_api.page(topic_name)
     if not page_name.exists():
         print('Page {} does not exist.'.format(topic_name))
         return
-    
     page_links = list(page_name.links.keys())
     progress = tqdm(desc='Links Scraped', unit='', total=len(page_links)) if verbose else None
     sources = [{'page': topic_name, 'text': page_name.text, 'link': page_name.fullurl,
@@ -32,7 +30,6 @@ def wiki_scrape(topic_name, verbose=True):
             sources.append(data) if data else None
             progress.update(1) if verbose else None     
     progress.close() if verbose else None
-    
     namespaces = ('Wikipedia', 'Special', 'Talk', 'LyricWiki', 'File', 'MediaWiki',
                   'Template', 'Help', 'User', 'Category talk', 'Portal talk')
     sources = pd.DataFrame(sources)
@@ -41,5 +38,4 @@ def wiki_scrape(topic_name, verbose=True):
     sources['categories'] = sources.categories.apply(lambda x: [y[9:] for y in x])
     sources['topic'] = topic_name
     print('Wikipedia pages scraped:', len(sources))
-    
     return sources
