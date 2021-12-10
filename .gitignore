@@ -133,3 +133,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Models/test.ipynb
+Models/test1.ipynb
+Models/test3.ipynb
