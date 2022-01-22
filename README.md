@@ -1,2 +1,2 @@
-# Bert_Based_NER
-Entity Relation Extraction Using Bert
+# Genearation of Knoledge graph from Unstructured BioMedical(Heart) Data Using Entity Relation Extraction
+
